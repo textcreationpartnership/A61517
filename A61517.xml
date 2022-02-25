@@ -1,0 +1,892 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kalōs proestōtes, or, A view of church-government wherein the proper church-governors are demonstrated, their office, duty, work and employment ... is declared ... : in a sermon preached at West-Malling ... Septemb. 16, 1662 / by John Stileman ...</title>
+            <author>Stileman, John, d. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61517</idno>
+            <idno type="STC">Wing S5553</idno>
+            <idno type="STC">ESTC R34609</idno>
+            <idno type="EEBO-CITATION">14523110</idno>
+            <idno type="OCLC">ocm 14523110</idno>
+            <idno type="VID">102512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1072:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kalōs proestōtes, or, A view of church-government wherein the proper church-governors are demonstrated, their office, duty, work and employment ... is declared ... : in a sermon preached at West-Malling ... Septemb. 16, 1662 / by John Stileman ...</title>
+                  <author>Stileman, John, d. 1685.</author>
+               </titleStmt>
+               <extent>[6], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. for Thomas Peirpont ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title in Greek characters.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102512:1"/>
+            <pb facs="tcp:102512:1" rendition="simple:additions"/>
+            <p>ΚΑΛΩΣ ΠΡΟΕΣΤΩΤΕΣ, OR, A VIEW OF Church-Government: WHEREIN, The proper <hi>Church-Governors</hi> are demonſtrated; THEIR Office, Duty, Work and Employment, With the Object thereof is declared, and the Neceſſity of Obedience to them aſſerted: IN A SERMON PREACHED At WEST-MALLING, at a Viſitation held there by the Lord Biſhop of <hi>Rocheſter,</hi> for one Part of his DIOCES: Septemb. 16. 1662.</p>
+            <p>By JOHN STILEMAN M. A. Miniſter of the Goſpel, and <hi>Vicar</hi> of <hi>Tunbridge</hi> in <hi>Kent.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur.</hi>
+                  </p>
+                  <closer>
+                     <date>
+                        <hi>Novemb.</hi> 17. 1662.</date>
+                     <signed> 
+                        <hi>M. Franck. S. T. P. R. P. D. Epiſ. Lond. à ſacr. Dom.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> for <hi>Thomas Peirpont</hi> at the <hi>Sun</hi> in St. <hi>Paul</hi>'s Church-yard. 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:102512:2"/>
+            <pb facs="tcp:102512:2" rendition="simple:additions"/>
+            <head>To the Right Reverend Father in God, JOHN By Divine Providence Lord Biſhop of ROCHESTER: My moſt honoured <hi>Dioceſan.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T</hi> would be a Confidence very eaſie to be convicted of too arrogant preſumption, ſhould I be ſo vain as to imagine any thing of mine worthy, either of your <hi>Honours hands,</hi> or the publick view. But <hi>your Lordſhip</hi> having enjoyned me, the mean<g ref="char:EOLhyphen"/>eſt of my Brethren, to preach before ſo learned an Auditory upon ſo ſolemn an occaſion; and my labours finding accep<g ref="char:EOLhyphen"/>tance beyond their worth, ſome of my Brethren (who have ſet a value upon them, above what I dare conceive to be in them) earneſtly ſolliciting Copies of me, (that I might both ſatisfie their importunities, and withal eaſe my ſelf
+<pb facs="tcp:102512:3"/>of the trouble of Tranſcribing) I have adventured them to the Preſs; which being emitted, muſt now come under the various Cenſures of the world, wherein I can never hope that they ſhould reliſh well with every Palate; nor can I expect, (ſuch are the different humours of men) that they ſhould generally find ſuch <hi>candid Readers,</hi> as in the Pulpit they were bleſſed with <hi>judicious</hi> and <hi>ingenuous Hearers:</hi> And therefore they dare not go abroad, unleſs ſheltred under the wings of ſome honourable <hi>Patron.</hi> Par<g ref="char:EOLhyphen"/>don me therefore (my Lord) if I preſume to ſend them forth under the <g ref="char:V">Ʋ</g>mbrage of your Reverend Name; Whoſe many expreſsions of Grace and Kindneſs to my unworthy ſelf, have encouraged me to this Addreſs; And who may by right, claim a ſpecial intereſt, both in all my labours, as mine <hi>Ordinary,</hi> to whom I am bound to be accountable for all my ſervice in the Church; and peculiarly in theſe, as being performed by your <hi>Lordſhips</hi> ſpecial command. And if they ſhall be approved in your <hi>Lordſhips</hi> eye (which all, that know you, know to be moſt clear and piercing) I ſhall not have cauſe to ſuſpect the Cenſures of any that are judicious; and others I ſhall not need to value. The <hi>Sermon</hi> (I confeſs) comes forth ſomewhat larger then it was preached, but not a jot altered in any material point; thoſe who heard it, and ſhall now read it, will find it the ſame, though increaſed in ſome expreſsions and expli<g ref="char:EOLhyphen"/>cations, which were prepared, but the ſtreights of time would not permit to be then ſpoken. In this and all my la<g ref="char:EOLhyphen"/>bours, my whole aim and deſign is,<note n="*" place="margin">Epheſ. 4.15.</note> to <hi>Follow the Truth in love,</hi> and to <hi>aſſert it with ſobriety.</hi> It will be the rejoycing of my ſoul to ſee every one in their ſtations, the <hi>Clergy</hi> eſpecially to maintain the honour of their places by an holy, humble, peaceable and blameleſs converſa<g ref="char:EOLhyphen"/>tion, which is the main thing this Sermon drives at. The
+<pb facs="tcp:102512:3"/>
+               <hi>Government</hi> and <hi>Diſcipline</hi> of the Church of <hi>England,</hi> muſt be acknowledged excellent in its <hi>Conſtitution,</hi> and for the main and ſubſtance of it, exactly agreable to the <hi>Primitive</hi> Pattern: It would revive me to ſee every parti<g ref="char:EOLhyphen"/>cular <hi>Act</hi> and <hi>Exerciſe</hi> of it as blameleſs in all the ſubor<g ref="char:EOLhyphen"/>dinate Officers hands; <hi>Piety</hi> and <hi>Peace</hi> having their full incouragement; and all <hi>Sin</hi> and <hi>Impiety, Schiſm</hi> and <hi>Prophaneſs</hi> meeting with their proper Cenſures; that the Churches Judicatories may be revered of all, and deſpiſed of none.</p>
+            <p>It hath been a ſorrow to my ſoul to ſee ſometimes that high Cenſure of <hi>Excommunication</hi> ſo abuſed on ſlight and very trivial occaſions, until I conſidered how an offence ſmall in the beginning, was increaſed much by a ſuperadded Contumacy, and the Eccleſiaſtical Court had no other way to vindicate it ſelf from the contempt of ſuch contumacious ſpirits, or to compel men to obey: And yet hath not this of late proved a ſufficient remedy againſt the frowardneſs of perverſe men, who ſlight even this, ſo far, as that by their own voluntary ſeparations they prevent the Churches Cenſures, that the Church (as it may ſeem) ſhall not need to excommunicate them, who are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="*" place="margin">Tit. 3.11.</note> and do <hi>excommunicate themſelves.</hi> It is my great expecta<g ref="char:EOLhyphen"/>tion and hope, that when the right reverend Fathers of the Church, the <hi>Biſhops</hi> of the upper, and the Reverend <hi>Clergy</hi> of the nether Houſe of <hi>Convocation</hi> ſhall again aſſemble, ſome ſuch effectual courſe will be found out to reduce men to, and preſerve them in <hi>Peace</hi> and <hi>Order,</hi> that by a prudent exerciſe of <hi>Diſcipline</hi> in all parts there<g ref="char:EOLhyphen"/>of the honour of the Churches Judicatories may be preſerv<g ref="char:EOLhyphen"/>ed, and yet ſo high a Cenſure may not be debaſed to ſecular ends, nor on low and light occaſions; that even thoſe who <hi>have evil will at Sion,</hi> may ſee, and be forced to ac<g ref="char:EOLhyphen"/>knowledge,
+<pb facs="tcp:102512:4"/>that the Churches aim, is the ſpiritual and eternal Advantage of her Members, and not the worldly advantage of her Officers and Governours, whoſe eyes look not ſo low, as to a ſecular profit to themſelves; and whoſe pious ſouls are cordially affected to, and only zealous for the real and proper intereſt of <hi>Chriſtianity,</hi> viz. <hi>Pi<g ref="char:EOLhyphen"/>ety</hi> and <hi>Peace</hi> in the Church.</p>
+            <p>My Lord, I have only this one thing to beg, that you would not judge me in this, ſo vain as to preſume to teach or direct ſo <hi>venerable Fathers;</hi> but only accept of this Addreſs as a faithful expreſsion of mine high obſervance of <hi>your Lordſhip;</hi> to whoſe judicious and paternal Cen<g ref="char:EOLhyphen"/>ſures, I readily ſubmit my ſelf, and all my labours And as the Lord, who is the<note n="*" place="margin">Dan. 7.9.</note> 
+               <hi>Antient of days,</hi> hath already adorned your head with that, which the wiſeſt of meer men did deſervedly call,<note n="[*]" place="margin">Pro. 16.31.</note> 
+               <hi>A Crown of Glory, Gray hairs found in the way of Righteouſneſs:</hi> So that he would add to your days a <hi>Neſtors</hi> years, that this little <hi>Di<g ref="char:EOLhyphen"/>oceſs</hi> may be ſtill happy under your <hi>Lordſhips</hi> prudent and grave inſpection: and when the time ſhall come that you muſt be <hi>gathered to your Fathers,</hi> that He will then tran<g ref="char:EOLhyphen"/>ſlate you from your Throne in the Church on earth to a far more <hi>glorious Throne</hi> in the higheſt heavens, is, and ſhall ſtill be the unfeigned Prayer of</p>
+            <closer>
+               <signed>Your Lordſhips in all humble and due Obſervance, JOHN STILEMAN.</signed> 
+               <dateline>
+                  <hi>From my Vicaridge at</hi> Tunbridge, <date>
+                     <hi>Novemb. 10. 1662.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:102512:4"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb, XIII. XVII.</hi>
+                  </bibl>
+                  <p>Obey them that have the rule over you, and ſubmit your ſelves, for they watch for your ſouls, as they that muſt give account, that they may do it with joy and not with grief: for that is unprofitable for you.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider the work, and occaſion of this meeting, I cannot but with confi<g ref="char:EOLhyphen"/>dence preſume that we are all aſſembled with the <hi>voyce of Joy and Praiſe;</hi> re<g ref="char:EOLhyphen"/>joycing in this day, that now through the goodneſſe of God we ſee again the face of a Church in the <hi>beauty of Order.</hi>
+            </p>
+            <p>It was a ſad time with the <hi>Diſciples,</hi>
+               <note n="(a)" place="margin">Mat. 8.24, 25.</note> when they were <hi>ſailing;</hi> the <hi>winds raging, a storm increaſing;</hi> and yet the <hi>Pilot ſleeping.</hi> Such a dreadfull time, ſuch a furious ſtorm hath this poor Church felt; when her <hi>Pilots</hi> were not <hi>ſleep<g ref="char:EOLhyphen"/>ing,</hi> but by a popular fury thrown out of the ſtern; and not the Hierarchy only, but the whole order of Miniſtry been forced to ſtrugle with the moſt impetuous billowes, and to encounter with thoſe ſtrong oppoſitions, which have ariſen. 1. <hi>Partly,</hi> from a <hi>Spirit of prophaneſſe,</hi> becauſe men love not to be controuled, and therefore<note n="(b)" place="margin">Amos 5.10.</note> 
+               <hi>hate thoſe, who re<g ref="char:EOLhyphen"/>prove in the gate.</hi> And 2. <hi>Partly,</hi> from a <hi>Spirit of pride ſchiſme and arrogance,</hi> becauſe men ſcorned to be taught. When the Devil would overthrow the Church, or Religion,
+<pb n="2" facs="tcp:102512:5"/>it is his firſt work to oppoſe her <hi>Biſhops</hi> and <hi>Prieſts,</hi> as <hi>Anti<g ref="char:EOLhyphen"/>chriſtian,</hi> uſeleſſe, and what not.</p>
+            <p>But (Bleſſed be God) Chriſt our Maſter ſleeps not; but is awake to our help, hath <hi>rebuked the wind, and the ſeas,</hi> and reſtored a <hi>Calme:</hi> Now are the Pilots at the Helme, and what remains, but that we (as Mariners) obſerve their commands, obey them in their, and be diligent in the works of our own places, <hi>viz.</hi> That we obſerve the ſteps of the Church, <hi>the footſteps of the ſtock;</hi> that we attend on, and <hi>feed by the ſhepheards tents.</hi> And if ye wait there, ye are to bring not your <hi>body</hi> only, but your <hi>Soul;</hi> not the <hi>ear,</hi> but the <hi>Heart</hi> to receive and obey their word. And ſuch is the Command of the Apoſtle here in the text;
+<q>Obey them that have the Rule over you, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Our Apoſtle doth in this Chapter (as in the cloſe of his Epiſtle) heap up many exhortations to divers duties of ſeveral natures, which have no neceſſary connexion: they are not like <hi>Flori ſerta,</hi> flowers bound up in a poſie, but as growing ſeverally in a garden: not like Pearls on a ſtring; but as laid looſe vpon a table, any one to be taken, as occaſion re<g ref="char:EOLhyphen"/>quires: we have therefore no need to look for a dependance. They are an entire exhortation to a Chriſtian carriage to<g ref="char:EOLhyphen"/>ward thoſe, who rule over us in the Church (for of theſe eccle<g ref="char:EOLhyphen"/>ſiaſtical officers doth he here ſpeak.)</p>
+            <q>Obey them that rule over you, and ſubmit your ſelves, <hi>&amp;c.</hi>
+            </q>
+            <p>In which words,<note place="margin">The Diviſion of the text.</note> I ſhall obſerve theſe two generalls,
+<list>
+                  <item>I. A <hi>Command,</hi> or exhortation to a duty. And therein
+<list>
+                        <item>1. An Act required, and that is double,
+<list>
+                              <item>1. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>, <hi>Obey,</hi> be perſwaded by, and aſſent to their Words, Doctrins, and Commands.</item>
+                              <item>2. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>, <hi>Yeeld, Submit,</hi> to<note n="(c)" place="margin">Rom. 6.17.</note> 
+                                 <hi>Obey from the heart that</hi> 
+                                 <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>, to be moulded, or framed by it; it is a ſpirituall obedienceto a ſpiritual word.</item>
+                           </list>
+                        </item>
+                        <pb n="3" facs="tcp:102512:5"/>
+                        <item>2. The <hi>Object,</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, Your <hi>Guides,</hi> or Rulers; <hi>qui gregi praeſunt, &amp; praeeunt, ut Paſtores.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>II. The <hi>Motives</hi> or Reaſons inforcing the duty. Taken
+<list>
+                        <item>1. <hi>Ab Officio.</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. Their care is for <hi>your Souls,</hi> they <hi>Watch ever</hi> and <hi>for</hi> them.</item>
+                        <item>2. <hi>A Neceſſario.</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. They muſt <hi>give account;</hi> of their paines with you, of your carriage to them.</item>
+                        <item>3. <hi>A Commodo.</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. Your obedi<g ref="char:EOLhyphen"/>ence is their comfort, and they ſhall then give account <hi>with Joy.</hi>
+                        </item>
+                        <item>4. <hi>Ab Incommodo.</hi> If they muſt with grief ſay (as in the<note n="(d)" place="margin">Iſa. 49.4.</note> prophet) <hi>We have laboured in vain, we have ſpent our ſtrength in vain and for nought;</hi> This will be
+<list>
+                              <item>1. <hi>A Grief</hi> to them. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>. As not<note n="(e)" place="margin">For the uſe of the word, ſee 2 Cor. 5.2. Rom. 8.23. Mar. 7.34.</note> 
+                                 <hi>groaning under a burden,</hi> (viz. <hi>of ſorrow</hi>) for your ſins and miſcarriages; and though it be no other danger to them, for<note n="(f)" place="margin">Iſai. 49.4.</note> 
+                                 <hi>their work is with the Lord, and their reward with God.</hi> Yet it will be</item>
+                              <item>2. <hi>A Damage</hi> to you. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>. <hi>Unprofi<g ref="char:EOLhyphen"/>table,</hi> it will not quit coſt: it is a <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>, or <hi>Litotes,</hi> ye will be much damnified by it. Signifying,<note n="(g)" place="margin">Mar. <hi>ex</hi> Cal.</note> 
+                                 <hi>non ſine propriae ſalutis jacturâ pastoribus nos eſſe molestos, &amp; immorigeros:</hi> The diſ<g ref="char:EOLhyphen"/>obedience of People is an heart-grief to their Paſtors; but the Damage is their own.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe are the particulars; and now you ſee I have a large field to walk in, more before me then the time will allow me to ſpeak to; yea ſuch as my ſtammering tongue and too weak wit (I fear) is not able to handle as the matter de<g ref="char:EOLhyphen"/>ſerves: but being enjoyned this Task, I ſhall labour to anſwer thoſe commands, and your expectations, ſo far as God ſhall enable me, and the time and your patience ſhall give leave; and ſuitably, I hope, in ſome meaſure to this preſent Aſſembly.</p>
+            <p>I ſhall begin with the</p>
+            <p n="1">1. General, The <hi>Duty</hi> required,<note place="margin">
+                  <hi>1.</hi> General.</note> 
+               <hi>Obedience to Governours</hi> in the Church: <hi>Obey them that have the rule over you.</hi> Here I ſhall crave leave to handle the latter branch firſt: to find out the <hi>Government</hi> and <hi>Governours,</hi> their office, work, and em<g ref="char:EOLhyphen"/>ployment:
+<pb n="4" facs="tcp:102512:6"/>and this will help us better to underſtand our duty, <hi>Obedience</hi> to them. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="1">1.<note place="margin">
+                  <hi>Obſerve</hi> A Government in the Church aſſerted.</note> 
+               <hi>There is</hi> then <hi>in the Church a Government, and Gover<g ref="char:EOLhyphen"/>nours.</hi> Officers ſet there by God that muſt be obeyed: and it is indeed a kind of rebellion againſt God to deny or oppoſe them. <hi>Obey thoſe that Rule.</hi> Where? <hi>in Politicis?</hi> yes, but that not of this place: but <hi>in Eccleſiaſtic is,</hi> ſuch as <hi>watch</hi> not for your eſtates, liberties, lives; but <hi>your ſouls,</hi> who take care of your ſpiritual concernes: thoſe <hi>Rulers</hi> mentioned <hi>Rom.</hi> 12.8. (for civil Rulers come after, <hi>Ch.</hi> 13.) which<note n="(h)" place="margin">1 Cor. 12.28.</note> 
+               <hi>God hath ſet in his Church:</hi> thoſe<note n="(i)" place="margin">1 Theſ. 5.12.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: that are over you, that lead in the van, that command, and admoniſh, thoſe<note n="(k)" place="margin">1 Tim. 5.17.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: it muſt be thus, for
+<list>
+                  <item>1. God is a<note n="(l)" place="margin">1 Cor. 14.33. God a God of Order.</note> 
+                     <hi>God not of confuſion but of Peace,</hi> and will have therefore an <hi>Order</hi> in his houſe. Want of Government is the ſpring of Confuſion, when ſome ſet up one way, ſome another: it is ſo in the civil ſtate. The poor <hi>Levite</hi>
+                     <note n="(m)" place="margin">Judg. Ch. 17, 18, 19.</note> ſound it ſo in <hi>Iſrael</hi> he hath no juſtice, till the whole land is in com<g ref="char:EOLhyphen"/>buſtion; and all this for want of Government, <hi>There was no King in Iſrael:</hi> and that the like is the caſe of the Church without her Rulers, our late daies have given us too ſad experience.</item>
+                  <item>2.<note place="margin">The Church a City.</note> The Church is a <hi>City,</hi> a <hi>Family,</hi> an <hi>Army,</hi> a <hi>Body;</hi> it is (I ſay) 1. A <hi>City,</hi> ſtate, or Commonwealth;<note n="(n)" place="margin">Pſal. 87.3.</note> 
+                     <hi>the City of God;</hi> the<note n="(o)" place="margin">Eph. 2.12.</note> 
+                     <hi>Commonwealth of Jſrael.</hi> We are<note n="(p)" place="margin">Eph. 2.19.</note> 
+                     <hi>Fellow Citi<g ref="char:EOLhyphen"/>zens,</hi> and our life here is<note n="(q)" place="margin">Phil. 3.21.</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Now Government is the ſoul of ſuch a ſtate; take away this the whole is ruined. 2. A Family, the<note n="[r)" place="margin">Eph. 2.19.</note> 
+                     <hi>Houſhold of God:</hi> the<note n="(s)" place="margin">Gal. 6.10. <hi>A Family.</hi>
+                     </note> 
+                     <hi>Houſhold of faith,</hi> there muſt be rulers in a family, (if any where) <hi>Aequa<g ref="char:EOLhyphen"/>litate nihil inaequalius:</hi> when <hi>Lycurgus</hi> was urged by one to eſtabliſh a <hi>Democracy</hi> in <hi>Sparta, Fac primum</hi> (ſaith he) <hi>in Domotua,</hi> Begin at home, there would men ſoon ſee the miſchief both of <hi>Anarchy,</hi>
+                     <note place="margin">An Army.</note> and a <hi>parity;</hi> and I am ſure much more in Gods houſe. 3. An <hi>Army, They go from ſtrength to ſtrength.</hi>
+                     <note n="(t)" place="margin">Pſal. 84.7.</note> 
+                     <hi>Heb.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Ab acie ad aciem.</hi> Thy people ſhall be willing<note n="(v)" place="margin">Pſal. 110 3</note> 
+                     <hi>In the day of thy power,</hi> when there ſeems to be an alluſion to the muſtering of an Army,
+<pb n="5" facs="tcp:102512:6"/>and that in Decency and Order: <hi>In the beauty of holineſs,</hi> ſuch is <hi>Jeruſalem,</hi>
+                     <note n="(w)" place="margin">Cant. 6.4.</note> 
+                     <hi>an Army,</hi> a well marſhalled ar<g ref="char:EOLhyphen"/>my, <hi>with banners,</hi> and there we know is the ſtraiteſt diſci<g ref="char:EOLhyphen"/>pline; moſt abſolute commands; and every one ſtrictly enjoyned his place and ſtation. It is <hi>Order</hi> makes an Army terrible? This makes the enemies labour ſo much againſt the Governours and Miniſters in the Church; for they know,<note place="margin">A Body.</note> Deſtroy this order, and the Church is ruined. 4. <hi>A Bo<g ref="char:EOLhyphen"/>dy,</hi> which the Apoſtle briefly hints in that, to the <hi>Romans,</hi>
+                     <note n="(x)" place="margin">Rom. 12.4.5.</note> 
+                     <hi>There are many members in one body yet all have not the ſame office; ſo we being many are one body in Chriſt.</hi> Which he more largely handles in his Epiſtle to the <hi>Corinthians.</hi>
+                     <note n="(y)" place="margin">1 Cor. 12.12.</note> There we have <hi>Head,</hi> and <hi>Members,</hi> and among the parts, ſome to <hi>direct,</hi> as the <hi>eye;</hi> ſome <hi>to be directed</hi> as the <hi>hands,</hi> and <hi>feet,</hi> &amp;c. Thus in the Church, the <hi>Body</hi> of <hi>Chriſt,</hi> ſome have one office, and place, ſome ano<g ref="char:EOLhyphen"/>ther.</item>
+                  <item>3. And the <hi>Cenſures</hi> to be exerciſed,<note place="margin">
+                        <hi>Cenſures</hi> ne<g ref="char:EOLhyphen"/>ceſſary in the Church.</note> which the Church is commanded,<note n="(z)" place="margin">1 Cor. 5. ult.</note> 
+                     <hi>put away from among you, (i. e.)</hi> Cut of by excommunication, <hi>that wicked perſon:</hi> and for which ſhe is commended,<note n="(a)" place="margin">1 Cor. 1. The neglect of them reproved.</note> and willed again to <hi>reſtore the Penitent;</hi> theſe evidence, that there muſt be <hi>Officers</hi> to diſpenſe them.</item>
+                  <item>4. Neither would there be ground for thoſe ſharpe re<g ref="char:EOLhyphen"/>proofes to the <hi>Corinthians,</hi>
+                     <note n="(b)" place="margin">1 Cor. 5.2.</note> for not caſting out the ince<g ref="char:EOLhyphen"/>ſtuous; of the <hi>Angel</hi> of <hi>Pergamus</hi>
+                     <note n="(c)" place="margin">Rev. 2.15.16.</note> for tolerating the <hi>Ba<g ref="char:EOLhyphen"/>laamites,</hi> and <hi>Nicolaitans,</hi> or of <hi>Thyatira</hi>
+                     <note n="(d)" place="margin">v. 19.</note> for ſuffer<g ref="char:EOLhyphen"/>ing that ſeducing <hi>Propheteſſe,</hi> had not God ſet up ſuch Go<g ref="char:EOLhyphen"/>vernours in his Church, and given them power to Rule; and order the affairs thereof.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> We may juſtly therefore wonder what ſhould ſo beſot the mindes of thoſe, who would be thought Chriſtians, that their hearts ſhould be ſo averſe to Government, and they be ſo eaſily ſtirred up to throw out their Rulers. We cannot but with horror look back to the years, that are paſt: Oh, where were the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: when the hedge of Government, the fence of Religion was broken down; how did the ſubtile <hi>Foxes</hi> creep into the vineyard, and the
+<pb n="6" facs="tcp:102512:7"/>Wild <hi>Boar</hi> deſtroy the Vine? Nature it ſelf teacheth, that in every ſociety, <hi>Sacred</hi> or <hi>Civil,</hi> there muſt be Order and Government: yet ſuch is the corruption of men, that when the Yoke (though never ſo eaſie) is put upon them, their hearts riſe againſt it, they would not be ruled. Whence is this frowardneſſe and averſion? but either, 1. From a <hi>Selfe-Love,</hi> a love to baſe luſts, men are<note n="(e)" place="margin">2 Tim. 3.2.</note> 
+               <hi>lovers of themſelves (i. e.)</hi> of carnal ſenſual ſelfe, and then <hi>diſobedient to Pa<g ref="char:EOLhyphen"/>rents,</hi> hate all Governors, becauſe unwilling their luſts ſhould be reformed: 2. or <hi>Selfe-conceit,</hi> every one thinks (as he in the <hi>Comick</hi>) <hi>Conſilii ſatis eſt in me mihi;</hi> they are proud, and ſcorn to be taught; think that they know more, and can do better themſelves, like <hi>Solomons</hi> fool,<note n="(f)" place="margin">Prov. 26.16.</note> 
+               <hi>Wiſer in their own conceit, then ſeven men that can render a reaſon.</hi> 3. or, <hi>Selfe-will,</hi> they ſay <hi>we are our own,</hi>
+               <note n="(g)" place="margin">Pſal. 12.4.</note> 
+               <hi>who ſhall con<g ref="char:EOLhyphen"/>troul us.</hi>
+               <note n="(k)" place="margin">Luk. 19.14.</note> Nolumus hunc regnare, <hi>We will not have ſuch rule over us, We will not,</hi> and all the reaſon is, becauſe <hi>We will not.</hi> 4. or <hi>Self-respect:</hi> Men look at a vain repute to them<g ref="char:EOLhyphen"/>ſelves,<note n="(i)" place="margin">Phil. 2.21.</note> 
+               <hi>Moſt men ſeek their own things, and not the things of Christ.</hi> They would be Rulers, Governors, and Com<g ref="char:EOLhyphen"/>manders themſelves; and take it as a diſcredit, that others ſhould not ſo account them, when yet they have never well learned to hear, or to obey. But</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Bleſſed be God<note n="(k)" place="margin">Iſa. 1.26.</note> 
+               <hi>He hath reſtored our judges as at the firſt, and our Governours as at the beginning.</hi> Though the Reines of Diſcipline have been broken, and the bands of Government looſed; yet are they now repaired, and theſe Reines put into the proper hands. Now we ſee again the face of a <hi>Biſhop</hi> viſiting his <hi>Church</hi> and <hi>Clergy:</hi> Now we ſee the <hi>Miniſters</hi> encouraged in their work that they may in peace watch over the Souls of the flock, and diſpenſe the myſteries of heaven to them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Let it then be our daily prayer, that God, who hath thus raiſed up the Church from the Grave, and reſtored her an<g ref="char:EOLhyphen"/>cient Diſcipline, and Fathers, would pleaſe to go on to perfect our happineſs, and preſerve this Order and Govern<g ref="char:EOLhyphen"/>ment that it may continue to be: 1. A fence &amp; ſupport to the <hi>Ordinances of God,</hi> the Adminiſtrations of grace, God having
+<pb n="7" facs="tcp:102512:7"/>ordained <hi>ſpecial Adminiſtrators</hi> for <hi>ſpecial Adminiſtrati<g ref="char:EOLhyphen"/>ons;</hi> for <hi>ſpecial Ordinances, ſpecial Officers.</hi> 2. A fence to <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> to keep out <hi>Errors &amp; Hereſies.</hi> 3. A <hi>Preſervative of Purity,</hi> and <hi>Scourge of prophaneſſe.</hi> 4. An <hi>Hedge to the Church,</hi> to preſerve the <hi>bands of Unity,</hi> and to make<note n="(l)" place="margin">Pſal. 122.3</note> 
+               <hi>Jeruſalem</hi> as a <hi>City that is compact together,</hi> and keep off <hi>Schiſm</hi> and Di<g ref="char:EOLhyphen"/>viſion. We may look and tremble at the ſad and diſmall wracks of the Church, ſince this Union was broken: Some men glory in the name of <hi>Separation;</hi> but did they know and conſider what it is, they would look upon it as <hi>Res tre<g ref="char:EOLhyphen"/>menda &amp; horrenda;</hi> when there cannot be found any one of the <hi>ſeperate Congregations</hi> of <hi>England</hi> of a little ſtanding, but which have fallen into moſt monſtrous opinions, and innumerable ſubdiviſions: hence <hi>Arrians, Socinians, Ana<g ref="char:EOLhyphen"/>baptiſts, Familiſts, Quakers,</hi> and what not? No wonder that <hi>ſo great a ſin</hi> as Schiſme, ſhould be accompanied with <hi>ſo fearful Plagues.</hi>
+            </p>
+            <list>
+               <item>1. We have now ſeen a neceſſity of Government and Go<g ref="char:EOLhyphen"/>vernors in the Church.</item>
+               <item>2. We are now to enquire, 1. <hi>Who are theſe Governors,</hi>
+                  <note place="margin">The Governors <hi>Who?</hi>
+                  </note> and 2. What is their office and work.</item>
+            </list>
+            <p n="1">1. The <hi>Officers</hi> and <hi>Governors</hi> to be obeyed, are called here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in other places<note n="(m)" place="margin">Rom. 12.8. 1 Theſ. 5.12. Phil. 1.1. Act. 20.28. 1 Tim. 5.17.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; ſometimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſometimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The word is different; but, in the main, the perſons and office are the ſame.</p>
+            <p n="1">1. The firſt and Primary Governors are the <hi>Biſhops</hi> of the Church, theſe are the <hi>Epiſcopi,</hi> and theſe the <hi>Preſbyteri,</hi> the Primary and proper <hi>Elders.</hi> In the beginning called <hi>Apoſtles,</hi> and (becauſe they continued not in their perſons but their ſucceſſors) <hi>Apoſtolical men</hi> in the firſt age, and <hi>Biſhops</hi> in the ſucceeding ages of the Church. Theſe are they to whom St. <hi>Peter</hi> writes,<note n="(n)" place="margin">1 Pet. 5.1.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Such <hi>Elders</hi> then were they, as St. <hi>Peter</hi> himſelf was, he was but a <hi>fellow-Elder,</hi> ſuch as they and no more then they, in that part of his <hi>Apoſolical office,</hi> which was of ſtanding and perpetual uſe in the Church, their work, as well as his, was, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="(o)" place="margin">1 Pet. 5.2.</note> to <hi>overſee,</hi>
+               <pb n="8" facs="tcp:102512:8"/>to <hi>Rule as Biſhops over the flock,</hi> and there the Apoſtle ſeems to make an evident diſtinction, and <hi>imparity in the Evan<g ref="char:EOLhyphen"/>gelicall Miniſtry?</hi> ſome<note n="(p)" place="margin">v. 2.3.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not ſo much in <hi>Age,</hi> as in <hi>Office,</hi> whoſe work was to <hi>feed,</hi> and <hi>Govern,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: ſome<note n="(q)" place="margin">v. 5.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which by A<g ref="char:EOLhyphen"/>nalogy to the former verſes, I conceive, may well be in<g ref="char:EOLhyphen"/>terpreted to be, (not <hi>young in Age,</hi> or <hi>Novices in Chri<g ref="char:EOLhyphen"/>ſtianity,</hi> but) <hi>Juniours</hi> in regard of <hi>Place</hi> and <hi>Office,</hi> who were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to be under,</hi> or <hi>obey</hi> the <hi>Biſhop</hi> in the Church, ſo that clearly there muſt be in the <hi>Clergy,</hi> both the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Praepoſiti,</hi> The <hi>Biſhops,</hi> or by what other name ſo ever they may fitly be called, for we ſtand not upon <hi>names</hi> but <hi>things;</hi> and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Sub<g ref="char:EOLhyphen"/>diti,</hi> or <hi>Subordinati,</hi> the <hi>Subordinate Paſtors, Prieſts,</hi> or <hi>Miniſters</hi> (call them as you pleaſe) who in their places are to Govern and feed their peculiar flockes, yet to be un<g ref="char:EOLhyphen"/>der and obey their <hi>Biſhop.</hi> The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> then in the text, in the firſt notion, are (as the learned <hi>Grotius</hi> in another place notes)<note n="(x)" place="margin">
+                  <hi>Gro'.</hi> in Liv. 22.2.</note> 
+               <hi>Qui in Eccleſia ſublimiorem caeteris conſe<g ref="char:EOLhyphen"/>cuti ſunt gradum, ut Apoſtoli; &amp; poſt eos Epiſcopi.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Next to theſe are the <hi>Particular Paſtors</hi> of the ſeveral Congregations.<note place="margin">Presbyters and Particular</note> Theſe are alſo the ſtanding officers in the Church, though to be under the <hi>Biſhop,</hi> yet to <hi>Feed, Go<g ref="char:EOLhyphen"/>vern,</hi> and lead their flocks, and their work is alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Scriptures evidence. Both theſe in their places and ſtations muſt be included un<g ref="char:EOLhyphen"/>der the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the text. Theſe have their place by <hi>Divine</hi> and <hi>Apoſtolicall</hi> inſtitution.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> And 3. Beſides theſe, there are or may be many other particular officers, which though they have not ſuch a par<g ref="char:EOLhyphen"/>ticular expreſſe Divine inſtitution,<note place="margin">Paſtors. Others uſed by the prudence of Church.</note> yet the <hi>Wiſdome of the Church</hi> hath found them requiſite, and at leaſt <hi>Prudential<g ref="char:EOLhyphen"/>ly neceſſary</hi> for the aſſiſtance of theſe undoubted Paſtors, and for the convenience of the ſeverall adminiſtrations; which being eſtabliſhed in an authority by the Law of the Church, or Kingdom, of which we are (ſuch as amongſt us the <hi>Chancellor, Archdeacon, &amp;c.</hi> or other like officers in other Churches) they muſt by us be reckoned among theſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and according<g ref="char:EOLhyphen"/>ly are to be obeyed in their places.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:102512:8"/> 2. Having found the Officers,<note place="margin">The office of <hi>Governours.</hi>
+               </note> we are next to enquire their Work and employment. And the text will ſhew us ſeveral particular worth noting, both 1. in their office, and 2. in the object of it.</p>
+            <p n="1">1. In their <hi>Office,</hi> we have theſe four things remarkable,<note place="margin">Four things conſiderable in the <hi>work</hi> and <hi>office.</hi>
+               </note> 
+               <hi>viz.</hi> their <hi>Eminence, Precedence, Obſervance, Go<g ref="char:EOLhyphen"/>vernance.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The firſt is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Eminence,</hi> They are <hi>over you,</hi> a de<g ref="char:EOLhyphen"/>gree above (<hi>viz.</hi> in relation to matters of the Church.)<note place="margin">Eminence.</note> So are all Rulers <hi>over the Ruled:</hi> it is ſo in the State,<note n="(ſ)" place="margin">Num. 27.16.</note> 
+               <hi>let the Lord ſet a man over the Congregation,</hi> ſaith <hi>Moſes: it is ſo in the Church,</hi>
+               <note n="(t)" place="margin">Luk. 12.42.</note> 
+               <hi>who is the wiſe steward, whom the Lond ſhall make Ruler over his houſe?</hi> though they are all ſervants to the Lord of all, net are ſome in Eminency <hi>over the reſt;</hi> as the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> before mention<g ref="char:EOLhyphen"/>ed. Yea even the <hi>Deacons</hi> are ſaid to have ſome degree of Eminency, they <hi>purchaſe to them elves</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a good degree,</hi> unleſſe this be rather to be underſtood that by their faithfull diligence in that lower, they come to gain a high<g ref="char:EOLhyphen"/>er degree in the Church. But however this is clear in the Place of Governours, there is <hi>an Eminence.</hi>
+            </p>
+            <list>
+               <item>1. Which muſt engage us inferiours to yeild that juſt Re<g ref="char:EOLhyphen"/>verence that is due to our Superiors for their place ſake?<note place="margin">
+                     <hi>Uſe</hi> Engaging. 1. Reverence in inferiours.</note> And</item>
+               <item>2. For us (my Brethren of the <hi>Clergy</hi>) As we are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to our flocks,<note place="margin">2. Exemplary piety in the Go<g ref="char:EOLhyphen"/>vernors.</note> and ſo have a degree of Eminency in that regard above them; ſo are we by this engaged to a care to preſerve the <hi>dignity, of our office and Miniſtry:</hi> to walke worthy of our high calling, not by the vain pomp of the world, but an holy exact converſation; walking ſo much the more watchfully and warily, as much as we are above others in place, ſo muſt it be our eare to be better in life. For,)</item>
+            </list>
+            <p>Ye know the maxime in Law. <hi>In dignitate qui peccat, peccat amplius:</hi> thus was <hi>Elies</hi> ſin aggravated by the emi<g ref="char:EOLhyphen"/>nence of his place,<note n="(u)" place="margin">1 Sam. 2.27.29.</note> 
+               <hi>I Cheſe thy fathers houſe—took thee to be my Priest—Why ſpurn Ye at my ſacrifices?</hi> &amp;c. And ye know alſo?</p>
+            <pb n="10" facs="tcp:102512:9"/>
+            <p> 
+               <hi>Quo major dignitas, eo major deformitas.</hi> Sin in a Mini<g ref="char:EOLhyphen"/>ſter, is like a Wenn not on the foot, or hand, but in the face or over the eyes. <hi>Sedes Summa, et vita ima,</hi> are ill-matched.</p>
+            <p>And we certainly have more eyes upon us, our faults are more conſpicuous then any; as a black ſpot upon a white robe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. In a valley, things may be hid, and not ſeen untill we come upon them: but <hi>ye</hi>
+               <note n="(x)" place="margin">Mat. 5.13.14</note> (if any) <hi>are the light of the world; a City ſet upon an hill cannot be hid. Soli latere ſi licet, Regi</hi> (adde <hi>E<g ref="char:EOLhyphen"/>piſcopo, Clero</hi>) <hi>licet.</hi> And beſides all this,</p>
+            <p>We may be ſure, our faults will be more obſerved then all our abilities, pains, and good actions whatſoever. The glory and brightneſſe of the Sun paſſeth all the year little no<g ref="char:EOLhyphen"/>ted: but one Eclipſe calls the eyes of all to behold and ob<g ref="char:EOLhyphen"/>ſerve it.</p>
+            <p>Thus the general holy example, eminent preaching of Miniſters may be ſeen, but is little obſerved: but every one is ready to take notice of the leaſt aberration; that they may have ſomething, wherewith to put off our rebukes; or by our example encourage and ſooth up themſelves in their ſins; or take occaſion to blaſpheme or reproach our functi<g ref="char:EOLhyphen"/>on. As therefore we are in <hi>place of Eminence,</hi> ſo let it be our care to maintain the <hi>honour of our place</hi> by an holy and blameleſſe converſation.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2 The next conſiderable in this office, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Prece<g ref="char:EOLhyphen"/>dence</hi> to go before,<note place="margin">Precedence.</note> and to lead the <hi>flock:</hi> for this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it is <hi>vox caſtrenſis:</hi> but uſed of <hi>Publick perſons,</hi> whether in the <hi>Camp, City,</hi> or <hi>Church:</hi> and this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ye know) anſwer to the Heb: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Dux, Praeſul, An<g ref="char:EOLhyphen"/>tiſtes.</hi> As the <hi>Prince</hi> hath Precedence in <hi>Civil</hi> things; the <hi>Captain</hi> in <hi>Military:</hi> So the <hi>Prieſt</hi> in <hi>Sacred.</hi> The <hi>Biſhop</hi> as <hi>Leivetennat General</hi> under <hi>Chriſt,</hi> who alone is<note n="(y)" place="margin">Heb. 12.2.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Cheif-Captain:</hi> and the <hi>Presbyters,</hi> as <hi>inferior Captains,</hi> and ſubordinate leaders, who are to ſet them<g ref="char:EOLhyphen"/>ſelves in the <hi>Front or Fore-ward</hi> of their ſeveral Charges, and manfully marching before the Church, encouraging all to follow with like valour &amp; diligence in the Chriſtian Warfare
+<pb n="11" facs="tcp:102512:9"/>againſt the World, the Fleſh, and the Devill.</p>
+            <p>We have alſo in the Scripture another Metaphor much to the ſame purpoſe,<note n="(z)" place="margin">Num. 27.16.11.</note> 
+               <hi>let the Lord of the spirits</hi> (ſaith Moſes) <hi>ſet a man over the Congregation, that he may go out before them and come in before them; to lead them out, and to bring them in; that they may not be as ſheep having no ſheephard:</hi> alluding to the Cuſtome of thoſe <hi>Eaſtern</hi> Coun<g ref="char:EOLhyphen"/>tries, not (as with us) to drive the ſheep, but to go before and lead them, to which cuſtome alſo our Saviour alludes,<note n="(a)" place="margin">1 John 10.8.</note> 
+               <hi>the ſheep hearing, &amp; knowing the voyce of their own ſheepheard do follow him.</hi> Thus Rulers are <hi>Leaders;</hi> it is ſo in<note n="(b)" place="margin">Iſa. 3.12.</note> 
+               <hi>Political,</hi> it is ſo in <hi>Eccleſiaſticals, Prophets, Biſhops, Prieſts,</hi> are ſuch <hi>Leaders, Paſtors. Guides,</hi> as the Scriptures in many places ſhew. Which <hi>Precedence</hi> is not ſo much in Civill reſpects,<note n="(c)" place="margin">Mat. 28.6.7</note> taking the upper hand, &amp;c. as a going be<g ref="char:EOLhyphen"/>fore others in a way of Doctrin, Direction, Circumſpect Walking, and the example of an holy life: this is the only way to vindicate both our perſons and Miniſtry from con<g ref="char:EOLhyphen"/>tempt, and to gain a Credit, and a Repute to both, by being<note n="(d)" place="margin">1 Tim. 4.12</note> 
+               <hi>examples in Word, in Converſation, in Charity, in Spirit in Faith and Purity,</hi>
+               <note n="(e)" place="margin">Tit. 2.7.</note> 
+               <hi>Paterns of good VVorks,</hi>
+               <note n="(f)" place="margin">1 Pet. 5.3.</note> 
+               <hi>not as Domineerings Lords</hi> (for it is not the Title of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but the abuſe of power, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is there condem<g ref="char:EOLhyphen"/>ned) but as <hi>enſamples to the flock.</hi>
+            </p>
+            <p>This <hi>Precedence</hi> now muſt teach us a double duty.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Diligence in ſtudy,</hi> to know the way,<note place="margin">
+                     <hi>Vſe.</hi> Engaging.</note> workes and will of God. To get our own eyes enlightned, and to keep them open: Our ſelves muſt firſt learn, and be ſuf<g ref="char:EOLhyphen"/>ficiently furniſhed with a ſtock of divine knowledge,<note place="margin">Diligence in ſtudy.</note> ere we can teach and inſtruct others. It is ſad with the Church, when men will undertake to be teachers, who themſelves have not learned the myſteries of faith, and principles of this Doctrin of God, <hi>&amp; prius effundere, quam infundi volunt.</hi> If we undertake to be guides, be ſure firſt that we ſee well,<note n="(g)" place="margin">Mat. 15.14.</note> 
+                  <hi>if the blind lead the blind,</hi> ye know the danger of both. Let us not then be ſtrangers to our ſtudies, but be ear<g ref="char:EOLhyphen"/>neſt by Study, Meditation and Prayer to gaine an high<g ref="char:EOLhyphen"/>er meaſure of knowledge, a deeper and farther in<g ref="char:EOLhyphen"/>ſight
+<pb n="12" facs="tcp:102512:10"/>into the myſteries of the Goſpell. Thoſe who are to teach others; ſhould know more then others, we muſt be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="(h)" place="margin">2 Tim. 2.24</note> 
+                  <hi>apt</hi> and ready to teach, that is our office; then we muſt be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>learned,</hi> that we may be able to perform it<note n="(i)" place="margin">1 Tim. 4.13.</note> 
+                  <hi>give attendance</hi> firſt to <hi>Rea<g ref="char:EOLhyphen"/>ding,</hi> then to <hi>Exhortation, and Doctrine.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <note place="margin">Holines of life.</note> 
+                  <hi>Holineſſe of life,</hi> if we are <hi>Guides,</hi> we muſt take the more care that we go not out of the way, leaſt by our miſ<g ref="char:EOLhyphen"/>carriage we draw others into perdition. True it is, our ex<g ref="char:EOLhyphen"/>amples are no Rule for others to follow in evill courſes,<note place="margin">Si bene dixeri<g ref="char:EOLhyphen"/>mus veſtrum eſt ſi male vixeri<g ref="char:EOLhyphen"/>mus noſtrum eſt. <hi>Aug.</hi>
+                  </note> nor will it be a plea for any to juſtifie ſin, here Chriſts rule muſt hold<note n="(k)" place="margin">Mat. 23.3.</note> 
+                  <hi>do as they ſay, but do not after their evill works.</hi> Yet when men are ſo prone <hi>exemplo vivere,</hi> eſpeci<g ref="char:EOLhyphen"/>ally by the examples of their Leaders; who (as <hi>Seneca</hi> ob<g ref="char:EOLhyphen"/>ſerves) <hi>plus exemplo quam peccato nocent,</hi> there cannot but be by our evill examples too great occaſion of ſin to the flock. And it will be a ſad account that we ſhall make, when God ſhall ſay,<note n="(l)" place="margin">Iſa. 3.12.</note> 
+                  <hi>Qui ducunt te, ſeducuut te;</hi> and it ſhall appear that we not onely fall our ſelves, but like the <hi>De<g ref="char:EOLhyphen"/>vill,</hi> or <hi>firſt falling Angel</hi> (to which there ſeemes to be an alluſion in the<note n="(m)" place="margin">Rev. 12.3.</note> 
+                  <hi>Apocalypſe</hi>) <hi>draw thouſands alſo down after us.</hi> Are we <hi>Guides?</hi> then it muſt be our care that we turn not to the right hand or to the left, but<note n="(n)" place="margin">Prov. 4. <hi>laſt</hi>
+                  </note> 
+                  <hi>keep our feet from evill.</hi> We muſt be examples in <hi>faith, Charity, Purity,</hi> &amp;c. If examples, then muſt we ſtrive to be the beſt, and moſt perfect, in a more refined life, and high<g ref="char:EOLhyphen"/>er purity of Converſation. As we are by our places brought <hi>nearer to God;</hi> ſo in our lives ſhould we ſtrive to be more <hi>like unto God.</hi>
+               </item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Excellent is that paſſage of that holy<note n="(o)" place="margin">
+                  <hi>Greg.Nazia.</hi> in Apologet.</note> 
+               <hi>Gregorie;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> —<hi>VVhen we are en<g ref="char:EOLhyphen"/>truſted with this place and office by God, it is not enough, that we are not wicked (for this is to be abhorred in the loweſt of the people) but it muſt be our endeavour to be more above them in piety and goodneſſe, then we are in place and office: to account it nothing that we excell them in dignity; but to account it our ſhame and loſſe, if we in all things anſwer not that honor, place and employment, to which we are called:
+<pb n="13" facs="tcp:102512:10"/>we muſt not think</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſame meaſure fits every perſon; there is not the ſame age or ſtrength of all nor the ſame nature of every Creature, nor the ſame qua<g ref="char:EOLhyphen"/>lity of every Earth; nor the ſame beauty and lustre of every ſtar,</hi> &amp;c. <hi>It is the ſin of private and the meaneſt Chriſtians to do that which is evill; but of the Miniſter, Guide, and Leader in the Church it is required,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to be the beſt, and to preceed ſtill, and proceed in that which is good.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The next remarkable in this office is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">Obſervance.</note> or (according to the word in the text) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>VVatch<g ref="char:EOLhyphen"/>ing,</hi> or <hi>Obſervance,</hi> and <hi>overſight.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Inſom<g ref="char:EOLhyphen"/>nem noctem ducunt vigiles:</hi> the word is Emphatically, as if they took <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not a wink of ſleep. The Metaphor is eaſie, their work is the work of <hi>VVatchmen</hi>
+               <note n="[p]" place="margin">Ezek. 3.17.</note> 
+               <hi>Son of man</hi> (ſaith God) <hi>I have made thee a watchman to the houſe of Iſrael;</hi> and this Metaphor ſhewes their work. 1. They are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to ſtand in the <hi>VVatch-Tower,</hi> as <hi>Centinels,</hi> to prevent danger from without, to declare when the ene<g ref="char:EOLhyphen"/>mie cometh. 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to <hi>Overſee</hi> the flock, to prevent their careleſneſſe within; that men ſleep not, or neglect their duty. Both theſe doth the Apoſtle mean in that charge which he gives in his laſt far-well at <hi>Miletum,</hi> to the <hi>El<g ref="char:EOLhyphen"/>ders</hi> or <hi>Biſhop</hi> of <hi>Epheſus.</hi> viz. to <hi>Timothy</hi> the then <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> (as may well be judged) of that <hi>Metropolis,</hi> and the other inferiour <hi>Biſhops</hi> under him: and if particular <hi>Preſ<g ref="char:EOLhyphen"/>byters</hi> were there, the charge is the ſame to them in their ſe<g ref="char:EOLhyphen"/>verall ſtations.<note n="[q]" place="margin">Act. 20.28.29.30.</note> 
+               <hi>VVolves will enter in, therefore watch and take heed to your ſelves and to all the flock, over which the holy Ghoſt hath made you,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Biſhops,</hi> (i. e.) <hi>inſpectors, or overſeers.</hi> And now this Watch is.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>A watch for the flook:</hi> in a carefull foreſight, to prevent the danger that might acrew to their ſouls by any that come among them, whether by error, or <hi>prophaneſſe,</hi>
+                  <note place="margin">In a watch for the flock.</note> that they may avoyd them. As <hi>Watchmen,</hi> if they ſee a<note n="[r]" place="margin">Ezek. 33.1-5.</note> Sword <hi>comming in judgment</hi> from God, they muſt blow the Trumpet and warne men, that they may repent of ſin and avoid the ſtroke. If they ſee<note n="[s]" place="margin">Act. 20.28,—</note> 
+                  <hi>VVolves enter
+<pb n="14" facs="tcp:102512:11"/>the fold,</hi> Hereticks enter the Church, they muſt give no<g ref="char:EOLhyphen"/>tice, and take care of the Church againſt them. <hi>Hirelings</hi>
+                  <note n="(t)" place="margin">Joh. 10.12, 13.</note> 
+                  <hi>flie when the wolf comes;</hi> but it is the <hi>Pastors</hi> work to watch, and defend the fold; they muſt attend, that Foxes creep not into the vineyard; nor weeds grow in the Garden; nor Schiſme, Hereſie, or Prophaneſſe in the Church of God.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>A watch over the flock,</hi> and ſo much is alſo ſignified in this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">A watch <hi>over</hi> the Flock.</note> a carefull <hi>Overſight,</hi> to look to them, and keep them awake in their duties, that they ſleep not in ſin or ſecurity, but awaken by Repentance, and keep a<g ref="char:EOLhyphen"/>wake. It is the work of the <hi>Paſtors,</hi> to take notice of the lives and converſations of the people. As <hi>Phyſicians</hi> are to obſerve <hi>bodies</hi> and <hi>diſeaſes:</hi> ſo is the <hi>Miniſter</hi> to obſerve <hi>ſouls</hi> and ſins, that they may apply ſuitable remedies: for this rea<g ref="char:EOLhyphen"/>ſon it is, among others, (<hi>viz.</hi> that there may be this care<g ref="char:EOLhyphen"/>full inſpection, and the ſingle <hi>Paſtor</hi> not being able to take notice, of or a perſonal inſpection into every particular) that the wiſedome of the Church hath thought fit to joyn others, in the reſpective <hi>Pariſhes,</hi> to aſſiſt the <hi>Miniſter,</hi> (the <hi>Church-wardens,</hi> I mean, who, did they conſcientiouſly diſcharge their places, and perform the works which the Church hath put upon them, there would be no place for, or want of ſuch an officer as a <hi>Lay-Elder</hi> in every Church, which ſome of late have ſo much ſtickled for) Theſe by their conſtant dealings with the people, having more and better opportuni<g ref="char:EOLhyphen"/>ties to look into their lives, are then to acquaint the <hi>Biſhop,</hi> or the Proper Governours, and Paſtors with them, that they may act as becomes watchmen. It is every Chriſtians office, <hi>in charity, to conſider one another, to provoke to love, and to good works,</hi> it is theirs, <hi>in Duty;</hi> that the <hi>watchmen</hi> may ſee, that men live as becometh Chriſtians. The end of which <hi>In<g ref="char:EOLhyphen"/>spection</hi> is, not to exerciſe a Dominion for the honour or profit of our ſelves,<note place="margin">The end of this watch.</note> but for the edification and advantage of the flock, <hi>viz.</hi>
+               </item>
+            </list>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <note place="margin">To prevent ſin.</note> 
+               <hi>To prevent ſin,</hi> to keep men awake: as perſons ſet to watch a ſick man after ſome Potion, where ſleep would be dangerous. <hi>Sin</hi> is the<note n="(v)" place="margin">Eph. 5.14.</note> 
+               <hi>ſleep of the ſoul;</hi> we are then to warn, that men ſin not: or if they ſin, then</p>
+            <p n="2">
+               <pb n="15" facs="tcp:102512:11"/> 2. <hi>To awaken and rouze men from ſin.</hi> By repentance men awake: and it is the watchmans work, by Doctrine, Ex<g ref="char:EOLhyphen"/>hortation, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <note place="margin">To Raiſe from ſin, by Repen<g ref="char:EOLhyphen"/>tance.</note> Admonition, Rebuke, Diſcipline and Cenſures to bring men to Repentance, that they may be ſaved. <hi>Biſhops</hi> are the <hi>Angels</hi> of the ſeverall Churches, who as they muſt be<note n="(x)" place="margin">Revel. 3 2.</note> 
+               <hi>watchfull,</hi> and rouze up themſelves; ſo muſt they quicken others alſo, and ſo <hi>ſtrengthen the things that are ready to dye.</hi>
+               <note n="(y)" place="margin">Gal 6.1.</note> 
+               <hi>If any be overtaken in a fault, ye which are ſpiritual, (i.e.)</hi> who have attained to greater meaſures, eſpecially if in place and office, Take, Raiſe, <hi>Reſtore ſuch a man:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> This alſo muſt teach us,</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>A care for our ſelves.</hi> How can we watch over,<note place="margin">
+                  <hi>Uſe.</hi> To engage.</note> or for others, if we keep not our own ſouls awake. That com<g ref="char:EOLhyphen"/>mand of Chriſt, which is given <hi>to one,</hi> is given<note n="(z)" place="margin">Mar. 13. <hi>Uit.</hi>
+               </note> 
+               <hi>to all,</hi> 
+               <note place="margin">A care for themſelves.</note> 
+               <hi>VVatch;</hi> but eſpecially in our places. Who will ſet a drow<g ref="char:EOLhyphen"/>zy ſpirit to watch others: <hi>VVhy ſleep ye?</hi> ſaith Chriſt to his Diſciples. We are <hi>Shepheards,</hi> if we ſleep, who ſhall look to the Flock? or how can we keep others waking? Our firſt care then muſt be for our ſelves.<note n="(a)" place="margin">Act. 20.28.</note> Take heed <hi>to your ſelves</hi> firſt, then <hi>to the flock:</hi> firſt<note n="(b)" place="margin">1 Tim. 4.12.</note> 
+               <hi>to thy ſelf,</hi> then <hi>to thy do<g ref="char:EOLhyphen"/>ctrine,</hi> and this is the way <hi>to ſave both our ſelves and them that hear us.</hi> Otherwiſe, though by our doctrine, we may be a means to ſave others; yet by our workes we ſhall damn our ſelves: and (as <hi>Nazianzen</hi> makes the compariſon) prove but as the <hi>Water</hi> uſed <hi>in Baptiſme, a ſeal of life to others, but itſelf afterwards running into the ſink.</hi> This made St <hi>Paul</hi> ſo carefull of himſelf,<note n="(c)" place="margin">
+                  <hi>1</hi> Cor. <hi>9.</hi> Uit.</note> 
+               <hi>To keep down his body,</hi> ſo that, <hi>When he preached to others, himſelf might not become a caſt-away:</hi> this done, our next care muſt be</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>A tender care of the Flocks under our charge.</hi> 
+               <note place="margin">A care for the Flock.</note> Their ſouls lie at ſtake: if the ſhepheard be careleſſe, the ſheep muſt periſh: if the centinels ſleep, the city will be ſurpriſed: if we be idle, not diligent in the workes of our place, to watch and warn, the enemies get advantage; Hereticks creep into the Church; ſin ſteals upon the ſouls of men; and People dye for want of knowledge: if they ſin, and con<g ref="char:EOLhyphen"/>tinue, and die, they dye in their own ſin; but if in it they
+<pb n="16" facs="tcp:102512:12"/>periſh through our neglect, their<note n="(d)" place="margin">Ezek. 33.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.</note> blood will lie on our heads, and be required at our hands; but if we warn them and do our duty, whatſoever the event or ſucceſſe be to them, we have <hi>Delivered our own ſouls.</hi> This is our third work <hi>In<g ref="char:EOLhyphen"/>ſpection,</hi> and <hi>Obſervance.</hi>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. <note place="margin">Governance.</note> The fourth and laſt conſiderable in this office is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Governance: Hierarchia,</hi> A ſacred juriſdiction; they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be <hi>obeyed</hi> and <hi>ſubmitted</hi> to. I need not cite thoſe many texts<note n="(e)" place="margin">Rom. 8.12. 1 Theſ. 5.12. 1 Tim. 5.17. <hi>Et paſſim.</hi>
+               </note> wherein they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: words of <hi>Rule</hi> and <hi>Authority.</hi> There is a <hi>Gover<g ref="char:EOLhyphen"/>nance,</hi> in the Venerable <hi>Biſhops,</hi> who are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to have the rule and overſight as, of the <hi>flock,</hi> ſo of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Clergy</hi> alſo, (as the <hi>Antitheſis</hi> in St. <hi>Peter</hi> muſt infer,)<note n="(f)" place="margin">1 Pet. 5.2, 3.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A <hi>Government,</hi> which is not <hi>Deſpotical,</hi> or <hi>Ma<g ref="char:EOLhyphen"/>gisterial,</hi> for the benefit of themſelves; not Lordlike or Domineering; no, they claime it not, they exerciſe it not: but, <hi>Paternal,</hi> and <hi>Pastoral,</hi> for the benefit of the Church, and ſalvation of ſouls: not as<note n="(g)" place="margin">Jam. 3.1.</note> 
+               <hi>Lords</hi> or <hi>Maſters</hi> over them; but, as <hi>Paſtors, Brethren, Fathers,</hi> over the ſeveral <hi>Preſbyters,</hi> and <hi>people.</hi> Under theſe, The <hi>Preſbyters</hi> alſo (though ſubordinate to the <hi>Biſhops,</hi> as <hi>Subjects,</hi> ſhall I ſay, nay rather as <hi>Sons,</hi> or <hi>Brethren</hi> in ſubordina<g ref="char:EOLhyphen"/>tion to obey them as <hi>Fathers;</hi> yet) to <hi>Govern</hi> their reſpe<g ref="char:EOLhyphen"/>ctive flocks; not Commanding with Dominion; but Feed<g ref="char:EOLhyphen"/>ing, Teaching; ſo Ruling<note n="(h)" place="margin">1 Cor. 16.14.</note> 
+               <hi>with Charity,</hi> and all poſſible<note n="(i)" place="margin">2 Tim. 2.24, 25.</note> 
+               <hi>Meekneſſe, and Gentleneſſe,</hi> with all<note n="(k)" place="margin">2 Tim. 4.2.</note> 
+               <hi>Long-ſuffering</hi> and patience, and yet with an holy<note n="(l)" place="margin">Tit. 2 15.</note> 
+               <hi>Authority</hi> alſo, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Now though we conſider the <hi>Biſhop</hi> as Di<g ref="char:EOLhyphen"/>ſtinct from, becauſe in this point of Government ſuperiour to other <hi>Preſbyters;</hi> yet the happineſſe of a Church very much conſiſteth in the ſweet harmony and conſent between theſe two; the one Ruling as a Father, the other obeying as ſons and Brethren, and yet Both together exerciſeing a <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> in the Church; A Reverend <hi>Epiſcopacy</hi> praeſiding, aſſiſted with a pious ſubordinate <hi>Preſbytery,</hi> which the ſcrip<g ref="char:EOLhyphen"/>tures Warrant, the lawes of our Church eſtabliſh; (nor do any, that I know, claime any other Authorty) I ſhall not di<g ref="char:EOLhyphen"/>vide them, but only conſider where this Government, which
+<pb n="17" facs="tcp:102512:12"/>they thus exerciſe, doth conſiſt, <hi>viz.</hi> Chiefely in theſe four things.</p>
+            <list>
+               <item>1. <hi>Admonition,</hi> this is one of their works, <hi>they labour,</hi>
+                  <note place="margin">This excerciſed 1. In <hi>Admoniti<g ref="char:EOLhyphen"/>on.</hi>
+                  </note> 
+                  <hi>and are over</hi> —<note n="(m)" place="margin">1 Theſ. 5.12.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>and admoniſh;</hi> it is an Apoſtolicall charge: <hi>If any obey not</hi> —<note n="[n]" place="margin">2 Theſ. 3.10.</note> 
+                  <hi>Mark ſuch a man, yet count him not</hi> preſently <hi>an enemie, but</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Admoniſh him as a brother.</hi> And there muſt proceed, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="(o)" place="margin">Tit. 3.10.</note> 
+                  <hi>One and another Admonition,</hi> before there be a paſſing to ſeverer Cenſures. Such mild and meek ways being firſt to be uſed; as <hi>Chirurgeons</hi> are not to uſe <hi>Corra<g ref="char:EOLhyphen"/>ſives,</hi> or <hi>Cauſticks,</hi> where gentler Remedies will ſerve the turn. The firſt work is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="(p)" place="margin">Gal. 6.1.</note> gently and ten<g ref="char:EOLhyphen"/>derly <hi>To bind up the broken joint,</hi> and reſtore the diſlocated member: but if this <hi>Admonition</hi> prevails not, then muſt be added,</item>
+               <item>2. <hi>Sharpe Reprehenſion:</hi>
+                  <note place="margin">2. Rebuke.</note> When gentle Plaiſters do no good, <hi>Cauſticks</hi> and ſharper Remedies muſt be applied:<note n="(q)" place="margin">Gal. 6.1.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>if any be overtaken,</hi> or <hi>ſurpriſed,</hi> uſe him in ſuch a caſe with all poſſible lenity: but, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, if a man <hi>overtake</hi> ſin, there muſt be another courſe:<note n="(r)" place="margin">Jud. 22, 23.</note> 
+                  <hi>Uſe ſome tenderly,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, with all <hi>compaſſion,</hi> diſtin<g ref="char:EOLhyphen"/>guiſhing between ſinners; but others ſave, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>pluck them out</hi> by an holy ſeverity, that they may be afraid to ſin. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="(ſ)" place="margin">Tit. 1.13.</note> 
+                  <hi>Rebuke them ſharply,</hi> or <hi>cuttingly,</hi> in love to their ſouls, that they may be ſaved. And if ſuch <hi>Rebukes</hi> prevail not, the Church muſt put forth her power in,</item>
+               <item>3. <hi>Eccleſiaſtical Cenſures:</hi>
+                  <note n="(t)" place="margin">1 Tim. 5.20.</note> 
+                  <hi>When men ſin openly,</hi>
+                  <note place="margin">3. Cenſures.</note> 
+                  <hi>re<g ref="char:EOLhyphen"/>buke them before all, that others may fear.</hi> When there is an open Scandal, there muſt be a publick Cenſure.<note n="(u)" place="margin">2 Theſ. 3.14.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Note that man;</hi> ſet a brand upon him, that he may be brought to ſhame. When <hi>Private Rebukes</hi> avail not, a publick Cenſure muſt ſucceed; and if this prevails not, it makes way for,</item>
+               <item>4. The laſt, <hi>Cutting off,</hi>
+                  <note place="margin">4. Exciſion, or Excommunica<g ref="char:EOLhyphen"/>tion.</note> or <hi>Caſting out</hi> of the Church by <hi>Excommunication:</hi> This is the higheſt Cenſure, and the laſt which the Church muſt, or can uſe, and that but in the higheſt Caſes. Men cut not off a limb for a light ſpot, or
+<pb n="18" facs="tcp:102512:13"/>little irregularity; nor ſhould the Church caſt out and ex<g ref="char:EOLhyphen"/>communicate for trivial offences: Nor do they cut off a member, when it may be otherwiſe cured; but when gan<g ref="char:EOLhyphen"/>grened, or there is no hope; when apparent danger, — <hi>Ne pars ſincera trahatur:</hi> ſo, in the Church, would any means elſe reform a ſoul, it would be high uncharitableneſs to cut him off. Were I worthy to advice our <hi>Venerable Fathers,</hi> who ſit at the Stern, I ſhould make it mine earneſt Requeſt for the Church, that no Court might paſs this Cen<g ref="char:EOLhyphen"/>ſure, but upon very great cauſe, when this ſin is notoriouſly ſcandalous to deſerve it, and there is no means elſe to re<g ref="char:EOLhyphen"/>form it, and with the greateſt regret and ſorrow for the ſin<g ref="char:EOLhyphen"/>ner, as we would mourn for the death of a Brother, or be afflicted at the cutting off a limb from our bodies. When upon every light occaſion the Church ſhall proceed to Ab<g ref="char:EOLhyphen"/>ſciſſion; it will make her Courts ridiculous, her Cenſures ſcorned, and the enemies of the Church to ſlight that, which if well managed, would fill them with ſhame and hor<g ref="char:EOLhyphen"/>ror, and awaken them to ſeek her peace. But when the Scandal is notorious, (and it is ſo, not only, when the ſin is highly enormous at the firſt, but when it growes to it by degrees: The ſin may be light in the beginning, and the offence ſmall at firſt, yet when men ſhall either perſiſt not<g ref="char:EOLhyphen"/>withſtanding all fair means to reform them; or ſhall deſpiſe the power of the Church, and to their firſt offence add a proud preſumptuous Contumacy, againſt the Laws of the Church, this now growes highly ſcandalous, which before might have been paſſed over with a light hand) when (I ſay) the Scandal is thus notorious, (whether from the na<g ref="char:EOLhyphen"/>ture of the crime, or by a ſuperadded Contumacy) the Church is offended; when it is matter of ill example, and danger to others; when all means of Admonition, Rebuke, and other Cenſures are uſed, and none do good, but the ſinner remains incorrigible; then let him be <hi>Caſt out,</hi> for the humbling of himſelf, and cleanſing the Church. <hi>If one and a ſecond warning</hi> will not reclaim an <hi>Heretick,</hi> then <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="(x)" place="margin">Tit. 3.10.</note> 
+                  <hi>Caſt him out:</hi> if there be an <hi>Inceſtuous Corin<g ref="char:EOLhyphen"/>thian,</hi> and he continue ſo: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="(y)" place="margin">1 Cor. 5. ult.</note> 
+                  <hi>Cut
+<pb n="19" facs="tcp:102512:13"/>off,</hi> (<hi>vix.</hi> By Excommunication) <hi>That wicked perſon from among you.</hi> Even nature teacheth this, in the body natural, <hi>Immedicabile vulnus enſe recidendum</hi> —; In Politick bodies, there is a power to take in, and caſt out of civil Societies: The ſame reaſon holds in the Church, where the ſin and danger is ſo much the greater, as much as the Concerns of the <hi>Soul,</hi> are above the Concerns of the <hi>Body.</hi> If a private perſon, after all means, may eſtrange himſelf from ſuch an one,<note n="(z)" place="margin">Mat. 18.16, 17</note> 
+                  <hi>as an Heathen</hi> or <hi>Publican;</hi> much more may a Church, where the Offence is greater, as much as a wrong done to a <hi>Community,</hi> tranſcends an Injury to a <hi>private per<g ref="char:EOLhyphen"/>ſon.</hi> Yea there is an higher end in <hi>Excommunication,</hi>
+                  <note place="margin">The ends of Excommunica<g ref="char:EOLhyphen"/>tion.</note> then there can be in <hi>cutting off a natural member,</hi> or <hi>throwing one out of a civil ſociety:</hi> For in either of theſe the end is but to preſerve the <hi>Body</hi> from death, or the <hi>Society</hi> from ruine.<note place="margin">1. To clenſe the Church.</note> But in this, as it is, 1. To free the Church from Infection, becauſe<note n="(a)" place="margin">1 Cor. 5.6.</note> 
+                  <hi>A little leaven leaveneth the whole lump;</hi> and thereby<note n="(b)" place="margin">Heb. 12.15</note> 
+                  <hi>Many others might be defiled,</hi>
+               </item>
+            </list>
+            <q>Grex totus in agris unius ſcabie cadit.</q>
+            <p>And, 2.<note place="margin">2. To vindi<g ref="char:EOLhyphen"/>cate Chriſtia<g ref="char:EOLhyphen"/>nity.</note> To vindicate the <hi>Churches Purity</hi> and <hi>Chriſtianity</hi> from the Reproaches of her Enemies, that the world may ſee, that neither doth the Church own ſuch rotten members, nor our Religion countenance a wicked life. So, 3. It mainly looks to the ſinner himſelf, for though it be a Cenſure of the greateſt ſeverity,<note place="margin">3. To humble, und to ſave the ſinner.</note> excluding the ſinner from the Communion and Bleſſings of the Church, yea from Heaven too, until he repent: What being thus <hi>bound on earth,</hi> Clave non errante,<note n="(c)" place="margin">Mat 18.18. John 20.23.</note> 
+               <hi>being as certainly bound in Heaven:</hi> Yet it carries in it the greateſt Charity to the ſinners Soul, the end being not to <hi>deſtroy,</hi> but to <hi>ſave:</hi> that as by a dreadful thunder-bolt he may be ſtricken with fear and horror and awakened to Repentance; and by this means, being ſenſible of his deſperate condition, learn to ſin no more. For this end are<note n="(d)" place="margin">1 Tim. 5.20.</note> 
+               <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neus</hi> and <hi>A<g ref="char:EOLhyphen"/>lexander delivered unto Satan,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>That they may learn</hi> (as being by this inſtructed) <hi>not to blaſpheme.</hi> The end being no other, but that through the ſinners Repentance, <hi>(x) The Spirit may be ſaved in the day of the Lord Jeſus.</hi>
+            </p>
+            <pb n="20" facs="tcp:102512:14"/>
+            <p> This alſo may teach us, <hi>My Brethren of the Clergy,</hi> a dou<g ref="char:EOLhyphen"/>ble Duty:
+<list>
+                  <item>I.<note place="margin">
+                        <hi>Uſe</hi> To engage Go<g ref="char:EOLhyphen"/>vernours.</note> We are as <hi>Governours</hi> of the Flock in our places to <hi>Ad<g ref="char:EOLhyphen"/>moniſh, Rebuke,</hi> &amp;c. How careful ſhould we be then to keep our ſelves free from that which we reprove in others?<note place="margin">1. To be holy themſelves.</note> 
+                     <hi>Quod dictum vis alteri, dic prius tibi.</hi> How can we hope that others ſhould hear us admoniſh them, when we ſhall be as the <hi>Lute,</hi> making ſweet Muſick to others, but will hear nothing our ſelves? <hi>Unde tibi facies?</hi> With what face can we reprove, when our ſelves are more, or equally guilty? When we do well, and preach by our <hi>Lives,</hi> as well as our Doctrine, we may gain<note n="(e)" place="margin">1 Tim. 3.13.</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>great bold<g ref="char:EOLhyphen"/>ueſs,</hi> and uſe freedom of ſpeech in any Reproof, when we can challenge the world, as Chriſt doth the Jews;<note n="(f)" place="margin">John 8.48.</note> 
+                     <hi>Which of you can convince me of Sin?</hi> And as <hi>Samuel,</hi> when he would effectually reprove the ingratitude of <hi>Iſrael,</hi>
+                     <note n="[g]" place="margin">1 Sam. 12.3.</note> begins with a teſtification of his own Integrity, challenging them to ſay any thing againſt him, if they could; <hi>Behold here am I, witneſs againſt me before the Lord.</hi> — But if that Proverb may be caſt in our teeth, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, When we undertake to reprove, our own bad life will take off the edge and efficacy of it: If we come to reform men, we had need bring <hi>Digitos mundos.</hi> He that comes to wipe off a ſpot on the face, with foul fingers, will make it worſe Remember then that charge of the Apo<g ref="char:EOLhyphen"/>ſtle,<note n="[h]" place="margin">1 Tim. 5.22.</note> 
+                     <hi>Keep thy ſelf pure.</hi>
+                  </item>
+                  <item>II.<note place="margin">2. The exerciſe Government to its proper end.</note> Let it not be eſteemed Preſumption, if I beſeech the <hi>Reverend Fathers</hi> of the Church; yet I need not, they are, I am confident, of themſelves more ready to do the ſame; but, let me obteſt and adjure all thoſe, who are cal<g ref="char:EOLhyphen"/>led to manage the Government under them, that they zea<g ref="char:EOLhyphen"/>louſly exerciſe it in all things to its proper en<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>; The Glory of God, and the real good of the Church: that <hi>Innocency</hi> may appear with boldneſs, and all <hi>Vices</hi> tremble at the pre<g ref="char:EOLhyphen"/>ſence of their Courts. Let the <hi>Church-wardens</hi> conſcienti<g ref="char:EOLhyphen"/>ouſly preſent the enormities of their Precincts; Let <hi>All officers</hi> ſtrive, not to enrich themſelves, but to <hi>reform ſins,</hi> and make men better. In the managing of all Eccleſiaſtical Cen<g ref="char:EOLhyphen"/>ſures,
+<pb n="21" facs="tcp:102512:14"/>be careful to make men ſee themſelves, confeſs &amp; for<g ref="char:EOLhyphen"/>ſake ſin. In matters of inferiour nature, uſe all meekneſs; and unto <hi>Perſons,</hi> the tenderneſs of <hi>Brethren:</hi> But in caſe of high enormities, wherein the life of Chriſtianity, or the peace of the Church is nearly concerned, proceed with all juſt ſeveri<g ref="char:EOLhyphen"/>ty. Then will the Church be freed of her enemies, honoured of ſtrangers, beloved of her friends, and reverenced of her children; and the world ſhall ſee, that her Courts are kept, and <hi>Viſitations</hi> held, not only of courſe and cuſtome, but to the effectual reformation of Offenders, reſtoring of Peni<g ref="char:EOLhyphen"/>tents, encouraging of the pious and peaceable; to bring ſin<g ref="char:EOLhyphen"/>ners to a ſight of, and ſincere ſorrow for ſin: And in a word, (contrary to the too juſt complaint of ſome of olde, and taken up by ſome as a reproach againſt the Church, I hope unjuſtly ſtill) <hi>Non nummorum, ſed morum gratia,</hi> not to empty mens purſes, but to reform their manners:</item>
+               </list>
+            </p>
+            <p>I have done with the <hi>Office</hi> or <hi>Employment:</hi> Let me crave leave for a word or two of,</p>
+            <p n="2">2. The <hi>Object:</hi> the <hi>Souls</hi> of men: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">2 The Object of this Govern<g ref="char:EOLhyphen"/>ment, <hi>The Souls of men.</hi> Which ſhew<g ref="char:EOLhyphen"/>eth,</note> 
+               <hi>They watch for your ſouls;</hi> not to get from you, nor indeed to pre<g ref="char:EOLhyphen"/>ſerve for you, <hi>your lands, goods, eſtates</hi> or <hi>lives;</hi> theſe are of <hi>ſecular</hi> concernment; but for your <hi>ſouls,</hi> for the furtherance and advancement of your <hi>ſpiritual good,</hi> your <hi>conſolation</hi> and <hi>ſalvation:</hi> And this ſhews the <hi>Nature, Worth</hi> and <hi>Weight</hi> of this work.</p>
+            <list>
+               <item>1. The <hi>Nature</hi> of our work, it is <hi>ſpiritual,</hi>
+                  <note place="margin">1. The nature of their Works, it is <hi>ſpiritual,</hi>
+                  </note> to look not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>about the things of this life,</hi> or ſecular concerns, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>about ſouls and ſpiritual things. Chriſt</hi> is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="[i]" place="margin">1 Cor. 6.3.</note> 
+                  <note n="[k]" place="margin">1 Pet. 2.25.</note> 
+                  <hi>the Biſhop of our ſouls;</hi> his Overſight as Mediator, and Governour of his Church, conſiſts not in judging Law-ſuits, or Diviſion of Inheritances: <hi>Man</hi>
+                  <note n="[k]" place="margin">Luke 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> ſaith he, <hi>who made me a judge?</hi> &amp;c. This was not the end of his coming; but to teach, lead and rule, for the ſpiritual and eternal welfare of men, the reco<g ref="char:EOLhyphen"/>vering and ſaving the ſouls that were loſt: So under <hi>Chriſt,</hi> the Government of <hi>Biſhops, Elders, Miniſters</hi> in the Church is not to meddle with <hi>political,</hi> or <hi>civil matters,</hi> as ſuch: in this
+<pb n="22" facs="tcp:102512:15"/>caſe,<note n="[l]" place="margin">1 Cor. 6.4.</note> 
+                  <hi>ſet up others to judge:</hi> but in things pertaining to God, and the eternal advantage of mens pretious ſouls. Even their ſevereſt Cenſures, <hi>Exciſion by Excommuni<g ref="char:EOLhyphen"/>cation</hi> tendeth to this, That the ſoul may be brought home to God, and the<note n="[m]" place="margin">1 Cor. 5.5.</note> 
+                  <hi>Spirit ſaved in the day of Chriſt,</hi> (as I have already ſhewn.)</item>
+               <item>2.<note place="margin">2. In worth &amp; excellency.</note> It is a work about <hi>Souls;</hi> then a work of <hi>Worth</hi> and Excellency, to encourage fit perſons to it, when God hath given Abilities for it, and brings men by a regular Call unto it: They ſhould not be unwilling to undertake it: <hi>He that deſires the Office of a Biſhop, deſires a good work.</hi> It is a pretious Employment, <hi>A watching over,</hi> and <hi>for the precious ſoul.</hi>
+               </item>
+               <item>3.<note place="margin">3. The weight of the Employ<g ref="char:EOLhyphen"/>ment.</note> A work of <hi>Weight:</hi> It is <hi>Opus &amp; onus tremendum An<g ref="char:EOLhyphen"/>gelis.</hi> They are to be employed about <hi>Souls:</hi> Wherein, as for the encouragement of Miniſters, they may be a means to<note n="[n]" place="margin">Jam. 5. ult.</note> 
+                  <hi>ſave a ſoul from death;</hi> and, (in the language of the Philoſopher)<note n="[o]" place="margin">Hierod.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>as much as may be to make a god of man,</hi> that is, of a <hi>Sinner</hi> to make a <hi>Saint,</hi> or, (in the language of the Scripture,)<note n="[p]" place="margin">2 Pet. 1.4.</note> 
+                  <hi>Partaker of the Divine nature,</hi> which is the greateſt and no<g ref="char:EOLhyphen"/>bleſt work that man can do: So, to keep off thoſe, who<note n="[q]" place="margin">Jer. 23.21.</note> 
+                  <hi>run, and are not ſent;</hi> it is ſuch an employment, as (if conſidered well) will make the beſt of men aſtoniſhed at it. To be a Steward in a noble Family, is a work too weighty for every ſhoulder: But to be a Steward of God in the Church, a Diſpenſer of heavenly Myſteries, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note n="[r]" place="margin">2 Tim. 2.15.</note> 
+                  <hi>To divide the word aright,</hi> and<note n="[ſ]" place="margin">Luk. 12.42.</note> 
+                  <hi>to give the pro<g ref="char:EOLhyphen"/>per portion in due ſeaſon</hi> to the ſouls of men, is much more: And the miſcarriage in this is wofully dangerous in the loſs of ſouls, which are more<note n="[t]" place="margin">Mat. 16.26</note> worth then the whole world beſides; being things, which the whole world could not, only the<note n="[u]" place="margin">1 Pet. 1.16.18.</note> 
+                  <hi>precious blood of Christ</hi> was able to redeem. The Employment then about theſe, and the Government of them, muſt needs be a work of worth and weight, <hi>The Art of Arts</hi>
+                  <note n="[x]" place="margin">Greg. Naz. in Apologet.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> as that holy <hi>Nazianzen</hi> doth excellent<g ref="char:EOLhyphen"/>ly expreſs it.</item>
+            </list>
+            <pb n="23" facs="tcp:102512:15"/>
+            <p> This, as 1.<note place="margin">Vſe. <hi>1. To engage.</hi> Fidelity in Go<g ref="char:EOLhyphen"/>vernors.</note> as it may encourage us to the worke and en<g ref="char:EOLhyphen"/>gage us to all care and fidelity in our charge: ſo</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. It is a prevalent motive to perſwade to the Duty of the Text, <hi>Obedience</hi> and <hi>Submiſſion.</hi> Which is the <hi>Act</hi> requi<g ref="char:EOLhyphen"/>red, <note place="margin">Obedience in all that are un<g ref="char:EOLhyphen"/>der them.</note> (the firſt particular named in the <hi>Analyſis,</hi> though here handled laſt) <hi>Obey,</hi> and <hi>Submit your ſelves.</hi> We have ſeen a <hi>Government</hi> in the Church; the <hi>Governors,</hi> and their <hi>office,</hi> and the <hi>End</hi> thereof, the <hi>Profit of Souls:</hi> Let all Chriſtians then learn to <hi>Obey.</hi>
+               <note n="(y)" place="margin">1 Theſ. 5.12</note> 
+               <hi>Prize them for their workes ſake.</hi> Let them have their <hi>Double honour,</hi>
+               <note n="(z)" place="margin">1 Tim. 5.17</note> 
+               <hi>eſpecially they labour<g ref="char:EOLhyphen"/>ing in the Word and Doctrin.</hi>
+            </p>
+            <p>Obey them, for their place and <hi>Authority ſake.</hi> 1.<note place="margin">1 Reaſon.</note> Rea<g ref="char:EOLhyphen"/>ſon requires it; to what end is their office,<note place="margin">2 Religion re<g ref="char:EOLhyphen"/>quires Obedi<g ref="char:EOLhyphen"/>ence to Rulers.</note> or do they Rule, if they are not obeyed? 2. Religion requires it. They are ſome of the <hi>Fathers</hi> whom God in his Law, [<hi>viz. precept</hi> 5.] hath commanded us to honor. Every <hi>Authori<g ref="char:EOLhyphen"/>ty</hi> both in Church and State is an<note n="(a)" place="margin">1 Cor. 12.28 Rom. 13.1, 2.5.</note> 
+               <hi>Ordinance of God,</hi> and to be <hi>obeyed for Conſcience ſake.</hi> We are not only to look on them as <hi>Neighbours</hi> and <hi>Members;</hi> or reverence them onely as <hi>Reverend pious men;</hi> but to <hi>Obey them as Fa<g ref="char:EOLhyphen"/>thers</hi> and <hi>Governours.</hi> They are Men, and as men they have their perſonal faults; but as he that gave to a bad man, ſaid, <hi>Dedi non homini, ſed humanitati:</hi> ſo in this caſe of <hi>Obedience,</hi> it is not yeilded, as to the men, but as <hi>to them in ſuch a place or office.</hi> Obedience we muſt yeild to their [not Commands as <hi>Princes,</hi> but] Coun<g ref="char:EOLhyphen"/>ſels as <hi>Leaders;</hi> Directions, as Guides; Cenſures, as <hi>Go<g ref="char:EOLhyphen"/>vernors:</hi> to follow their Doctrin, to reforme upon their Rebukes<note n="[b]" place="margin">1 Cor. 11.1.</note> 
+               <hi>ſo to follow them, as they follow Chriſt:</hi> Yeild your ſelves to be<note n="[c]" place="margin">Rom. 6.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Moulded according to their Word and Doctrine,</hi> as thoſe who <hi>Watch for your ſouls.</hi> This is indeed to<note n="[d]" place="margin">Cant. 1.8.</note> 
+               <hi>Feed your ſelves by the ſhepheards tents.</hi>
+            </p>
+            <p>And for us [my <hi>Brethren of the Clergy</hi>] would we find a juſt obedience to our Word and Doctrin, to our Admo<g ref="char:EOLhyphen"/>nitions and Reproofs in our reſpectives charges; let us ſhew an example of juſt Obedience in our Carriage and
+<pb n="24" facs="tcp:102512:16"/>ſubmiſſion to our Superiours. As we are <hi>over our flocks:</hi> ſo muſt we remember, that we are as the <hi>Centurion</hi> in the Goſpel,<note n="(e)" place="margin">Mat. 8.9.</note> 
+               <hi>Men under Authority alſo.</hi> When we ſhall contend for a <hi>Parity,</hi> and deny a Subordination; and uſurp a power, which we have not, by the <hi>Lawes of God</hi> or the Land, we make a fearful <hi>Schiſme</hi> in the Church. When we ſhall preſume to reject our <hi>Biſhops,</hi> we teach people to reject <hi>us alſo;</hi> yea and we ſhew the way to ruine both. While we are divided, we are neither ſafe: but united, the <hi>Biſhop</hi> with his <hi>Presbyters;</hi> A <hi>Venerable Epiſcopy,</hi> preſid<g ref="char:EOLhyphen"/>ing, and principally ruling, aſſiſted by a ſubordinate <hi>Preſ<g ref="char:EOLhyphen"/>bytery,</hi> theſe together, through Gods mercy, ſhall be in<g ref="char:EOLhyphen"/>vincible.</p>
+            <p>Let us then in our places learn and yeild Obedience, in duties which are in themſelves <hi>neceſſary,</hi> I preſume none will ſcruple it: but in Matters of Indifferency, Circumſtance, and Order we ſhall alſo finde <hi>Obedience neceſſary.</hi> Some things there are which <hi>Christ and his Apoſtles</hi> have already preſcribed to be obſerved in all Churches in the World; &amp; to ſuch, as theſe, we are Obliged, whether they are againe Commanded us or no: and yet the command of our Supe<g ref="char:EOLhyphen"/>riours being added, layeth a farther obligation to obey in theſe. But beſides theſe, there are alſo many other things fit and <hi>Convenient</hi> to be done in the Church; yea at leaſt <hi>Prudentially neceſſary</hi> for the beauty of Order, the De<g ref="char:EOLhyphen"/>cency of Adminiſtration; wherein our Governours have power to Command, and we are obliged to obey. Such are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="(f)" place="margin">Tit. 1.5.</note> 
+               <hi>Things that are wanting,</hi> or left to the prudence and diſcretion of the Church: in which the Apoſtle made no particular or expreſſe rules; but left order to <hi>Titus</hi> in <hi>Creet;</hi> and conſequently to the <hi>Biſhops</hi> and <hi>Governors</hi> of the Church in their ſeveral <hi>Provinces, Dioceſſes</hi> and <hi>Juriſdictions,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, To ſettle and or<g ref="char:EOLhyphen"/>der them, as ſhould be moſt for the benefit, Unity. Peace, and edification of the Church. Whatſoever then is Lawfull, (though we may judge it not ſo Conveni<g ref="char:EOLhyphen"/>ent) and enjoyned by thoſe, who (and not we) as Governours of the Church are onely Judges, we muſt
+<pb n="25" facs="tcp:102512:16"/>
+               <hi>ſubmit unto,</hi> and for Peace, Order, and Edification, and avoyding of Offence. Yeild your ſelves;</p>
+            <p>And to yeild this honeſt and juſt obedience we are ſuf<g ref="char:EOLhyphen"/>ficiently engaged and excited by</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2 The other <hi>Generall</hi> part of the <hi>Text,</hi> the <hi>Motives,</hi> 
+               <note place="margin">
+                  <hi>General.</hi> The Motives.</note> or Reaſons added to enforce the Duty; and theſe taken,
+<list>
+                  <item>1 <hi>Ab Officio.</hi> They <hi>Watch for your ſouls,</hi>
+                     <note place="margin">Ab <hi>Officio.</hi>
+                     </note> this is their work and duty: you muſt then be content to be Watched over. They are placed in this office by God; and for this purpoſe made<note n="(g)" place="margin">Act. 20.28.</note> 
+                     <hi>Overſeers</hi> by the <hi>Holy Ghost.</hi> They Act by a <hi>Divine Warrant,</hi> and to diſobey them is to<note n="(h)" place="margin">Act. 7.51.</note> 
+                     <hi>Reſiſt the Holy Ghoſt.</hi> Their aime is your ad<g ref="char:EOLhyphen"/>vantage, not as thoſe againſt <hi>Jeremy,</hi>
+                     <note n="(i)" place="margin">Jer. 20.10.</note> 
+                     <hi>to watch for your halting,</hi> to take advantage againſt you? but to reforme, reclaime, and ſave your Souls. It is too ſad a ſigne that men love their Sins, when they are loath, that their Paſtors ſhould obſerve their Ways.</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>A Neceſſario.</hi> They muſt doe ſoe, it is their Duty. <note place="margin">A neceſſario.</note> 
+                     <hi>As They, that muſt give Account.</hi> It would be much for the Eaſe of your Governors to be confined to their Study and Pulpit, and have no farther Charge laid upon their ſhoulders: but this Charge they muſt take of you, and <hi>bee accountable to God for you: viz.</hi> of their Labours with you; and of your Lives and Carriages under their Miniſtry. <hi>Stewards,</hi> they are of the houſe of God, and muſt give account to the <hi>Maſter of the Family.</hi> They are <hi>Shepheards,</hi> but the<note n="(k)" place="margin">Act. 20.28.</note> 
+                     <hi>Flock is God</hi>'s: and they muſt give account of the <hi>Sheep to Jeſus Chriſt,</hi>
+                     <note n="(l)" place="margin">1 Pet. 2.15. 1 Pet. 5.4.</note> 
+                     <hi>the ſhepheard of your ſouls.</hi> Who is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and whoſe ſheep ye are: Which
+<list>
+                        <item>1 Muſt engage us in our places to all fidelity and care,<note place="margin">
+                              <hi>Uſe.</hi> To engage 1 In <hi>Miniſters, Fidelity.</hi>
+                           </note> that we conſider ſeriouſly of the burden upon our ſhoulders; uſeing all diligence that we may give up a good account of our Charge. If<note n="(m)" place="margin">Hoſ. 4.6.</note> 
+                           <hi>People periſh for want of knowledge;</hi> and we have not intruſted them: if they ſin, and we neglect to admoniſh, rebuke, and to
+<pb n="26" facs="tcp:102512:17"/>uſe the meanes and power in our hands to reform them: They dye; but we muſt anſwer for them<note n="(n)" place="margin">Ezek. 3.19.</note> 
+                           <hi>with our own blood.</hi> Therefore</item>
+                        <item>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <note place="margin">In People an humble ſubmi<g ref="char:EOLhyphen"/>ſſion.</note> Let not people thinke much of our care. Say not, that we are <hi>buſie-bodies,</hi> when we preach unto you, &amp; inquire after you, for we muſt Watch, and give account. But here are we in a great ſtraight: we are in danger <hi>apud homines, loquendo; apud Deum, ſilendo.</hi> If we faithfully diſcharge our duty in a juſt reproof of men,<note n="(o)" place="margin">Amos 5.10.</note> 
+                           <hi>they hate us:</hi> if we deale plainly with men, when they fall into errone<g ref="char:EOLhyphen"/>ous opinions;<note n="(p)" place="margin">2 Pet. 2.1. <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</note> 
+                           <hi>Schiſmaticall</hi> and pernicious <hi>ways;</hi> or dangerous ſins: we are accounted <hi>Enemys,</hi>
+                           <note n="(q)" place="margin">Gal. 4.16.</note> and for no other reaſon, but becauſe we tell them the <hi>Truth.</hi> And when they ſhould<note n="(r)" place="margin">1 Theſ. 5.13</note> 
+                           <hi>prize and love,</hi> they hate us even for our Workes ſake. But there is a far greater dan<g ref="char:EOLhyphen"/>ger in our Silence; we are in danger of Gods diſplea<g ref="char:EOLhyphen"/>ſure (and that is<note n="(s)" place="margin">Heb. 10.31.</note> 
+                           <hi>fearfull,</hi> for<note n="(t)" place="margin">Heb. 12. <hi>ult.</hi>
+                           </note> 
+                           <hi>Our God is a Con<g ref="char:EOLhyphen"/>ſuming fire,)</hi> if we diſcharge not our duty towards your ſouls. Speake then and Admoniſh and Rebuke, <hi>&amp;c.</hi> we muſt; and you muſt be content to hear and obey: the good, and eternal ſalvation of your ſouls depends upon it.</item>
+                        <item>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <note place="margin">A Commodo.</note> 
+                           <hi>A Commodo.</hi> That they may do it <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. when ye obey we can <hi>With Joy,</hi> give up our accounts to God. It is a <hi>Joy</hi> to the ſhepheard when his flocks thrive; to the Miniſter, when his labours are ſucceſſeful<note n="(v)" place="margin">1 Theſ. 2.19, 20.</note> 
+                           <hi>What is our joy, and Crown of Rejoycing? Are not even yee in the Preſence of Chriſt, at his comeing?</hi> Yea are our glory, and our joy. And again<note n="(x)" place="margin">1 Theſ. 3.7.8, 9.</note> 
+                           <hi>VVe are comforted over you in all our affliction</hi>—, by your faith; whatſoever we want or ſuffer, [we live if ye ſtand faſt in the Lord], thus St. <hi>Paul;</hi> and he goes on, [What thanks ſhall we render to God for the joy, wherewith we joy for your ſakes before our God.] The like we read in St. <hi>John</hi>
+                           <note n="(y)" place="margin">3 John 4.</note> 
+                           <hi>I have no greater joy, then to hear that my Children walke in the truth.</hi> They are<note n="(z)" place="margin">1 Theſ. 2.7, 8</note> 
+                           <hi>Nurſes</hi> and <hi>Foſter-Fathers,</hi> and bear tender affe<g ref="char:EOLhyphen"/>ctions towards you, and rejoyce as much, as your natural Parents can do, in the ſtirring of your ſouls.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <pb n="27" facs="tcp:102512:17"/>
+            <p> This if any thing,<note place="margin">
+                  <hi>Uſe.</hi> To engage <hi>peo<g ref="char:EOLhyphen"/>ple,</hi> to returns of <hi>love and obedi<g ref="char:EOLhyphen"/>ence.</hi>
+               </note> ſhould engage in people returns of love and obedience. They have heavy burdens on them, and but weak ſhoulders: we are frail men, and diſcouraged much by the croſſe carriages of people: we need all helps, (as <hi>Moſes</hi>
+               <note n="(a)" place="margin">Exod. 17.12.</note> had <hi>Aaron</hi> and <hi>Hur</hi> to hold up his hands,) there is no way ſo good as this. By your holy life and converſation, by your love, Humility, pious, peaceable, and obedient carriage you will revive us. By this argument the <hi>Apoſtle</hi> wooes, and by this let me prevaile for this holy obedience.<note n="(b)" place="margin">Phil. 2.1, 2.</note> 
+               <hi>If there be any conſolation in Chriſt, if any comfort of love — fullfill ye our joy,</hi> &amp;c.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. <note place="margin">
+                  <hi>Ab Incommodo.</hi> Peoples ſin.</note> 
+               <hi>Ab Incommodo:</hi> and this is double, if ye will not obey as ye are here required, ſo that we cannot give up our ac<g ref="char:EOLhyphen"/>count <hi>with joy.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The <hi>Grief</hi> and Sorrow will be <hi>ours,</hi> 
+               <note place="margin">
+                  <hi>The</hi> Paſtors ſorrow.</note> when people are taught, admoniſhed, <hi>&amp;c.</hi> and yet will be ſtill untractable, this is a grief of heart to their pious Paſtors. This<note n="(c)" place="margin">2 Pet. 2 7.</note> 
+               <hi>vexed Lot,</hi> though he had no ſuch charge over <hi>Sodom:</hi> much more will it thoſe, whoſe care and charge they are. Is it not mat<g ref="char:EOLhyphen"/>ter of ſad ſorrow, that we ſhould ſee our labour loſt, and that we ſtill<note n="(d)" place="margin">Am. 6.12.</note> 
+               <hi>plough on the rocks, and ſow among thorns?</hi> that we muſt ſtill complaine (as it is in<note n="(e)" place="margin">Jer. 6.29, 30.</note> the Prophet) <hi>The bel<g ref="char:EOLhyphen"/>lowes are burnt, and the founder melteth in vain,</hi> there is no good done, for <hi>Reprobate ſilver</hi> they will ſtill be? this makes the Prophet crie,<note n="(f)" place="margin">Iſa. 24.16.</note> 
+               <hi>My leanneſs, my leanneſs, woe unto me:</hi> and as with <hi>David</hi>
+               <note n="(g)" place="margin">Pſal. 119.136.</note> ſo is it with them, <hi>Rivers of water run down their eyes becauſe men keep not the Law of their God.</hi> Is it not matter of deepeſt ſadneſſe, that we ſhould be a means to Damn them, whom we are ſent to, and deſier to ſave? for the word which we bring, will be as, where it is received and obeyed,<note n="(h)" place="margin">2 Cor. 2.16.</note> 
+               <hi>the Savour of life unto life;</hi> ſo where it is re<g ref="char:EOLhyphen"/>jected, as certainly and infallibly <hi>the Savour of death unto death,</hi> if we be not as<note n="(i)" place="margin">Math. 13.30</note> 
+               <hi>Reapers togather</hi> you, as <hi>good Corn, into the barn,</hi> we ſhall be as <hi>Binders up,</hi> as of <hi>Tares</hi> and <hi>weeds in bundles to be thrown into the fire:</hi> [as it is in the Par<g ref="char:EOLhyphen"/>able.]<note n="(k)" place="margin">Quinquam tunc (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c. <hi>ad conſu<g ref="char:cmbAbbrStroke">̄</g>mationem ſeculi</hi>) extre<g ref="char:EOLhyphen"/>ma<g ref="char:cmbAbbrStroke">̄</g> manum pur<g ref="char:EOLhyphen"/>gandae eccleſiae aponet, <hi>(Deus ſc.)</hi> per A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge<g ref="char:EOLhyphen"/>los, idem tamen nunc facere inci<g ref="char:EOLhyphen"/>pit per pios Doctores. <hi>Calv. in Mat. 13.39.</hi>
+               </note> God beginning to do that by his <hi>Miniſters</hi> here, which he will perfectly do by his <hi>Angels</hi> at the end of the world.</p>
+            <p n="2">
+               <pb n="28" facs="tcp:102512:18"/> 2.<note place="margin">The Peoples own <hi>Damage.</hi>
+               </note> But though the <hi>Grief</hi> will be ours, there is matter of <hi>Danger</hi> to you that obey not, and to you only, for</p>
+            <p n="1">1. The faithfull Paſtors ſhall ſuſtain no loſſe by the peoples diſobediedce: for <hi>Curam ſucſip mus, non curationem,</hi> we are charged with the <hi>Care,</hi> but not the <hi>Cure.</hi> The <hi>Phyſician</hi> ſuffers not for the <hi>Patients</hi> death, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he reſiſt or refuſe his medicins:<note n="[l]" place="margin">1 Cor. 3.8.</note> 
+               <hi>Our re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard</hi> is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>according to our work and labour,</hi> not <hi>fruit or ſucceſs.</hi> Men that till the ground ſhall be paid, though the ſeed miſ<g ref="char:EOLhyphen"/>carry; and the Reapers ſhall be rewarded, though the corn be not worth it. But</p>
+            <p n="3">3. A diſobedient people ſhall ſuffer. The Parents diſplea<g ref="char:EOLhyphen"/>ſure will be the childrens diſprofit: it will be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>unprofitable, damage to you:</hi> For 1. Your ſins are aggravated,<note n="[m]" place="margin">Joh. 15.22.</note> 
+               <hi>if the word had not come to you, ye had not had ſin: [<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e.]</hi> Comparatively, <hi>viz.</hi> your ſin had been nothing ſo great as now it is, for <hi>now ye have no cloak no colourable excuſe for ſin:</hi> and then 2. Your Judgements will be increaſed, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> will it be<note n="[n]" place="margin">Mat. 11.20.</note> 
+               <hi>for Sodom or Gomorah,</hi> then for you, who have heard, and ſeen, but obeyed not: <hi>Quanta Damnatio a Damnatis damnari?</hi> Sad is the condition of ſinfull men when <hi>the Goſpel</hi> of peace and life,<note n="[o]" place="margin">Mat. 24.14.</note> 
+               <hi>ſhall be a witneſſe againſt them.</hi>
+               <note n="[p]" place="margin">Joh. 12.47.</note> 
+               <hi>If any man hear,</hi> and beleive not (and he believes not, who obeyeth not) <hi>I judge him not</hi> [ſaith <hi>Chriſt</hi>] what? will not Chriſt judge? who elſe can? hath not God<note n="[q]" place="margin">Joh. 5.22.</note> 
+               <hi>Committed all judgement to the Son?</hi> True, but <hi>he will not judge,</hi> [he ſaith] well we are ſecure now, may the ſinner think, we fear non elſe: but ſtay ſirs, <hi>Pater ad Filium, Eilius ad Verbum. The Father</hi> hath committed all judgement <hi>to the Son;</hi> and <hi>the Son to the Word.</hi> The ſon ſhall not need to judge ſuch an one, the word ſhall do it.<note n="[r]" place="margin">Joh. 12 48.</note> 
+               <hi>The word that I have ſpoken, the ſame ſhall judge him in the laſt day.</hi> The Lord <hi>Jeſus Chriſt</hi> is a<note n="[ſ]" place="margin">Heb. 2.17.</note> 
+               <hi>compaſſionate high Prieſt,</hi> and He came to ſave; and to make <hi>Reconciliation for ſins.</hi> Here a ſea of Comfort and Hope, True, but let not the ſinner pre<g ref="char:EOLhyphen"/>ſume and continue diſobedient: for he is the <hi>Author of this eternal ſalvation</hi> only <hi>to</hi>
+               <note n="[t]" place="margin">Heb. 5.9.</note> 
+               <hi>ſuch as obey him.</hi> To theſe only will he extend his mercies and enlarge his compaſſions.</p>
+            <pb n="29" facs="tcp:102512:18"/>
+            <p> Me thinkes theſe meditations might ſtrike terror into the ſouls of men and even force them to an holy obedience.<note place="margin">
+                  <hi>Uſe.</hi> To encourage <hi>Miniſters</hi> in their work howſoever their labours ſucceed with men.</note>
+            </p>
+            <p>But whatſoever <hi>People</hi> do, Here is Comfort and encourag<g ref="char:EOLhyphen"/>ment enough to Gods faithfull <hi>Miniſters:</hi> Howſoever their labours ſucceed with men; yet they are accepted with God. Let us <hi>(my Brethren)</hi> be faithfull and diligent in our places, blameleſſe in our lives; enſamples to the flock in Holineſſe, Faith, Patience, Peace, Humility, and Obedience: And in our Doctrine ſhewing Incorruptneſſe, Gravity, Sincerity: Let us Teach, Exhort, Rebuke, with all long-ſuffering and Pa<g ref="char:EOLhyphen"/>tience: then, though to our ſorrow, we may complaine for want of ſucceſſe, that we have all this while<note n="[v]" place="margin">Iſa. 49.4.</note> 
+               <hi>Laboured in, vai</hi> and <hi>ſpent our ſtrength in vain and for nought,</hi> yet let us be encouraged to go on, and we may be aſſured for our comfort that<note n="[x]" place="margin">ibid.</note> 
+               <hi>Our work is with the Lord and our labour with our God:</hi> and he will reward us.</p>
+            <p>What now remaines? but that we turn this <hi>Sermon</hi> into <hi>Practice:</hi> And now every one in our places ſet our ſelves to the ſerious exerciſe, and faithfull diſcharge of theſe Duties, whether of <hi>Governing</hi> or <hi>Obedience,</hi> which God in his word requires of us,</p>
+            <p>Yea and turn the <hi>Sermon</hi> into a prayer [for<note n="[y]" place="margin">2 Cor. 3.5.</note> 
+               <hi>all our ſuf<g ref="char:EOLhyphen"/>ficiency is of God</hi>] in the words of our <hi>Apoſtle,</hi> but a <hi>verſe</hi> or two below the <hi>Text.</hi>
+            </p>
+            <p>
+               <q>
+                  <note n="[z]" place="margin">Heb. 13.20 21.</note> 
+                  <hi>O God of peace, Thou who broughteſt again from the dead our Lord Jeſus, that great ſhepheard of the ſheep through the blood of the everlaſting covenant, Make us</hi> (Governors and governed, Paſtors and Flock, even make us) <hi>every one perfect to do thy will;</hi> in our ſeve<g ref="char:EOLhyphen"/>ral Offices, Miniſtries, Places and Stations,) <hi>working in us that which is well pleaſing in thy ſight: through Jeſus Chriſt. To whom, with the Father and the Holy Ghoſt, Three perſons,</hi> but <hi>One Eternal, Inviſible, only wife God, be All Glory and Power, Praiſe and Do<g ref="char:EOLhyphen"/>minion for ever and ever,</hi> AMEN.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
